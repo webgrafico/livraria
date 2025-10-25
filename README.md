@@ -1,2 +1,1 @@
 # livraria
-hugo-livraria
