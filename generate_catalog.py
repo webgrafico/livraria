@@ -3,8 +3,9 @@ import xml.etree.ElementTree as ET
 from urllib.parse import quote
 
 # === CONFIGURAÇÕES ===
-BASE_URL = "https://webgrafico.github.io/livraria"  # domínio do GitHub Pages
-OUTPUT_FILE = "catalog.xml"  # nome do catálogo gerado
+BASE_URL = "https://webgrafico.github.io/livraria/Ebooks"  # domínio do GitHub Pages
+ROOT_FOLDER = "Ebooks"  # onde ficam os livros
+OUTPUT_FILE = "catalog.xml"
 IGNORED_FOLDERS = {".calnotes", ".caltrash"}
 IGNORED_FILES = {"metadata.db", "metadata_db_prefs_backup.json"}
 
@@ -16,19 +17,18 @@ feed = ET.Element(
         "xmlns:opds": "http://opds-spec.org/2010/catalog",
     },
 )
-
 ET.SubElement(feed, "id").text = BASE_URL
 ET.SubElement(feed, "title").text = "Catálogo de Livros - Livraria"
 ET.SubElement(feed, "updated").text = "2025-10-26T00:00:00Z"
 
-# === Função para criar uma entrada de autor ===
-def criar_entrada_autor(nome_autor, livros):
+# === Função para criar entrada de autor ===
+def criar_entrada_autor(nome_autor):
     entry = ET.Element("entry")
     ET.SubElement(entry, "title").text = nome_autor
     ET.SubElement(entry, "id").text = f"{BASE_URL}/{quote(nome_autor)}"
     ET.SubElement(entry, "updated").text = "2025-10-26T00:00:00Z"
 
-    link = ET.SubElement(
+    ET.SubElement(
         entry,
         "link",
         {
@@ -39,7 +39,7 @@ def criar_entrada_autor(nome_autor, livros):
     )
     return entry
 
-# === Função para criar catálogo individual de autor ===
+# === Função para criar o catálogo de cada autor ===
 def criar_catalogo_autor(nome_autor, livros):
     feed_autor = ET.Element(
         "feed",
@@ -67,32 +67,32 @@ def criar_catalogo_autor(nome_autor, livros):
             },
         )
 
-    ET.ElementTree(feed_autor).write(
-        os.path.join(nome_autor, "index.xml"),
-        encoding="utf-8",
-        xml_declaration=True,
-    )
+    output_path = os.path.join(ROOT_FOLDER, nome_autor, "index.xml")
+    ET.ElementTree(feed_autor).write(output_path, encoding="utf-8", xml_declaration=True)
 
 # === Geração automática do catálogo principal ===
-for autor in sorted(os.listdir(".")):
-    if not os.path.isdir(autor) or autor in IGNORED_FOLDERS:
+for autor in sorted(os.listdir(ROOT_FOLDER)):
+    autor_path = os.path.join(ROOT_FOLDER, autor)
+
+    if not os.path.isdir(autor_path) or autor in IGNORED_FOLDERS:
         continue
 
     livros = [
-        f for f in os.listdir(autor)
+        f for f in os.listdir(autor_path)
         if f.lower().endswith(".epub") and f not in IGNORED_FILES
     ]
 
     if not livros:
         continue
 
-    feed.append(criar_entrada_autor(autor, livros))
+    feed.append(criar_entrada_autor(autor))
     criar_catalogo_autor(autor, livros)
+    print(f"Autor encontrado: {autor} ({len(livros)} livros)")
 
 # === Salva o catálogo principal ===
 ET.ElementTree(feed).write(OUTPUT_FILE, encoding="utf-8", xml_declaration=True)
 
-print(f"✅ Catálogo OPDS gerado com sucesso: {OUTPUT_FILE}")
+print(f"\n✅ Catálogo OPDS gerado com sucesso: {OUTPUT_FILE}")
 print("Agora faça commit e push para o GitHub Pages:")
-print("git add . && git commit -m 'add catalog.xml' && git push")
-print(f"Feed disponível em: {BASE_URL}/{OUTPUT_FILE}")
+print("git add . && git commit -m 'update catalog.xml' && git push")
+print(f"Feed disponível em: {BASE_URL.replace('/Ebooks','')}/{OUTPUT_FILE}")
