@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">142</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dd10150e-9ce9-4cfe-9794-04027ec98729</dc:identifier>
+        <dc:title>Rápido e devagar</dc:title>
+        <dc:creator opf:file-as="Kahneman, Daniel" opf:role="aut">Daniel Kahneman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-23T03:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Do Prêmio Nobel de Economia, Daniel Kahneman. Todos nós acreditamos que o
+ homem por ser dotado de razão, é capaz de conter os instintos e as 
+emoções, avaliando objetivamente as situações e escolhendo, dentre 
+várias alternativas, a que lhe é mais vantajosa. Estudos conduzidos 
+durante anos pelo autor, um dos mais importantes pensadores do século 
+XXI, colocam em xeque a ideia de que a nossa tomada de decisões é 
+essencialmente racional.Em Rápido e Devagar: duas formas de pensar, 
+Kahneman nos leva a uma viagem pela mente humana e explica as duas 
+formas de pensar: uma é rápida, intuitiva e emocional; a outra, mais 
+lenta, deliberativa e lógica. O autor expõe as capacidades 
+extraordinárias - e também os defeitos e vícios - do pensamento rápido e
+ revela o peso das impressões intuitivas nas nossas decisões. 
+Comportamentos tais como a aversão à perda, o excesso de confiança no 
+momento de escolhas estratégicas, a dificuldade de prever o que nos vai 
+fazer felizes no futuro e os desafios de identificar corretamente os 
+riscos no trabalho e em casa só podem ser compreendidos se soubermos 
+como as duas formas de pensar moldam nossos julgamentos. As questões 
+colocadas por Kahneman se revelam muitas vezes inquietantes: é verdade 
+que o sucesso de um investidor é completamente aleatório e que sua 
+habilidade no mercado financeiro é apenas uma ilusão? Por que o medo de 
+perder é mais forte do que o prazer de ganhar? Por que assumimos que uma
+ pessoa mais bonita será mais competente? Suas ideias tiveram um impacto
+ profundo em muitas áreas, incluindo economia, psicologia, medicina e 
+política, mas é a primeira vez que reúne seus muitos anos de pesquisa e 
+pensamento em um livro. De forma envolvente, o autor revela quando 
+podemos ou não confiar em nossa intuição. Oferece insights práticos e 
+esclarecedores sobre como tomamos decisões nos negócios e na vida 
+pessoal, e como podemos usar diferentes técnicas para nos proteger 
+contra falhas mentais que muitas vezes nos colocam em apuros.&lt;/p&gt;</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">A8E7315A7D3248CD8A669B1C19871FB4</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788539003839</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">16152814</dc:identifier>
+        <dc:language>por</dc:language>
+        <meta name="calibre:timestamp" content="2023-05-19T15:39:21+00:00"/>
+        <meta name="calibre:title_sort" content="Rápido e devagar"/>
+        <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

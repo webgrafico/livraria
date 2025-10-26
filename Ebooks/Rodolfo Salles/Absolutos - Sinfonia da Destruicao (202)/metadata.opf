@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">202</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ab5b78d9-6fa4-4011-a404-90dd02d76d64</dc:identifier>
+        <dc:title>Absolutos - Sinfonia da Destruição | Livro 1</dc:title>
+        <dc:creator opf:file-as="Salles, Rodolfo" opf:role="aut">Rodolfo Salles</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-01-01T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;"Os Dançarinos do Destino. Os Sentenciadores da Escuridão. Os Amaldiçoadores da Existência. Os Inominados. Você é um Absoluto.” &lt;/p&gt;
+&lt;p&gt;E se você descobrisse estar Destinado a destruir tudo que ama? &lt;/p&gt;
+&lt;p&gt;Em uma era de exploração Universal intensa, Érico é um jovem com o sonho de se tornar um Caçador de Relíquias, aventureiros que saem pelo espaço procurando tesouros antigos. Porém, ele descobre por conta das misteriosas tatuagens em seu corpo que é um Absoluto, seres que de tempos em tempos surgem no Universo e espalham o caos por onde passam. Mas quem são os Absolutos? E por que Érico é um deles? &lt;/p&gt;
+&lt;p&gt;Sem escolha, o rapaz é forçado a deixar sua vida pacata na lua de Miesac, onde vive com os irmãos adotivos Vexel e Miro. Ele parte em uma jornada através do Universo em busca de um Desbravador, entidade com poderes inimagináveis capaz de apagar suas tatuagens e assim devolver as rédeas de seu Destino. Em meio a essa aventura, ele encontrará aliados e inimigos, além de mergulhar de cabeça nos segredos ocultos de sua verdadeira família. &lt;/p&gt;
+&lt;p&gt;Conseguirá Érico livrar-se desse fardo? Ou terá, por fim, que aceitar seu Destino como o próximo na linhagem de destruidores?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07FZQVVQB</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">41021797</dc:identifier>
+        <dc:language>por</dc:language>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2025-10-26T16:46:19.115759+00:00"/>
+        <meta name="calibre:title_sort" content="Absolutos - Sinfonia da Destruição | Livro 1"/>
+        <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

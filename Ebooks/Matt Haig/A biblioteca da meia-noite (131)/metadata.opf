@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">131</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0ad0d91c-267e-431f-a050-4127dfd9a18e</dc:identifier>
+        <dc:title>A biblioteca da meia-noite</dc:title>
+        <dc:creator opf:file-as="Haig, Matt" opf:role="aut">Matt Haig</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-09-15T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;A Biblioteca da Meia-Noite é um romance incrível que fala dos infinitos rumos que a vida pode tomar e da busca incessante pelo rumo certo.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Aos 35 anos, Nora Seed é uma mulher cheia de talentos e poucas conquistas. Arrependida das escolhas que fez no passado, ela vive se perguntando o que poderia ter acontecido caso tivesse vivido de maneira diferente. Após ser demitida e seu gato ser atropelado, Nora vê pouco sentido em sua existência e decide colocar um ponto final em tudo. Porém, quando se vê na Biblioteca da Meia-Noite, Nora ganha uma oportunidade única de viver todas as vidas que poderia ter vivido.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Neste lugar entre a vida e a morte, e graças à ajuda de uma velha amiga, Nora pode, finalmente, se mudar para a Austrália, reatar relacionamentos antigos – ou começar outros –, ser uma estrela do rock, uma glaciologista, uma nadadora olímpica... enfim, as opções são infinitas. Mas será que alguma dessas outras vidas é realmente melhor do que a que ela já tem?&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Em A Biblioteca da Meia-Noite, Nora Seed se vê exatamente na situação pela qual todos gostaríamos de poder passar: voltar no tempo e desfazer algo de que nos arrependemos. Diante dessa possibilidade, Nora faz um mergulho interior viajando pelos livros da Biblioteca da Meia-Noite até entender o que é verdadeiramente importante na vida e o que faz, de fato, com que ela valha a pena ser vivida.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;"Uma celebração entusiástica do poder que os livros têm de mudar vidas." – Sunday Times&lt;/p&gt;
+&lt;p&gt;"Um cenário de possibilidades ilimitadas, de novos caminhos trilhados, de novas vidas vividas, de um mundo totalmente diferente disponível para nós de alguma forma, em algum lugar, pode ser exatamente do que precisamos nesses tempos difíceis e turbulentos." – The New York Times&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;"Um romance extremamente original e instigante sobre a importância de valorizar a vida que você tem." – Independent&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;"Instigante e inspirador. Explora a nossa relação com o arrependimento e com o que realmente faz uma vida ser perfeita." – Harper's Bazaar&lt;/p&gt;
+&lt;p&gt;"Uma história sobre segundas chances e viver com arrependimentos. Muito envolvente." – Stylist&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;"Eu amei A Biblioteca da Meia-Noite. Ele condensa coisas importantes e tristes – morte, saúde mental, filosofia existencial – em um livro excepcional, prazeroso e de aquecer o coração." – Pandora Sykes&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Bertrand Brasil</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B09BKDLD4F</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">57997482</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9786558380634</dc:identifier>
+        <dc:language>por</dc:language>
+        <dc:subject>Ficção inglesa</dc:subject>
+        <meta name="calibre:timestamp" content="2023-05-19T14:10:55+00:00"/>
+        <meta name="calibre:title_sort" content="biblioteca da meia-noite, A"/>
+        <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7468df7d-e1d1-42e8-b694-e5a8b9de70b1</dc:identifier>
+        <dc:title>Arsene Lupin: 813</dc:title>
+        <dc:creator opf:file-as="Leblanc, Maurice" opf:role="aut">Maurice Leblanc</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-07-15T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Rudolf Kesselbach, a South African billionaire, is murdered in a Parisian palace. Arsene Lupin is framed for the crime, and must escape from the clutches of the wily M. Lenormand, the head of the French Sûreté, while looking for the real murderer, an enigmatic figure dressed in black who signs his crimes "L. M." Both Lupin and L. M. also seek to acquire Kesselbach's secret which may completely overthrow the political map of Europe, the key of which is encapsulated into a mysterious cryptogram: 813. 813, written in 1910, is Arsene Lupin's greatest adventure, taking him from the prison of La Santé in Paris to the corridors of the great powers of Europe. Never has Lupin met such a savage and cunning adversary as L. M., or solved such an impenetrable mystery as "813", which defied even Sherlock Holmes' legendary sagacity. Retranslated and published uncut here for the first time, this edition of the novel comes with a new epilog written especially for this book by noted lupinologist Jean-Marc Lofficier which exposes the truth behind Holmes' role in 813.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Hollywood Comics</dc:publisher>
+        <dc:identifier opf:scheme="GOODREADS">32478332</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">DI5LLWFZQQJTVBMSN5YR2CVTP27SQVJX</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781612274126</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">ZIf4sgEACAAJ</dc:identifier>
+        <dc:language>por</dc:language>
+        <meta name="calibre:series" content="Arsène Lupin"/>
+        <meta name="calibre:series_index" content="11"/>
+        <meta name="calibre:timestamp" content="2022-07-27T14:53:26+00:00"/>
+        <meta name="calibre:title_sort" content="Arsene Lupin: 813"/>
+        <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

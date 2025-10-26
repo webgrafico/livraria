@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">147</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">12ca5fdf-ada9-4218-a8c4-5621295293ce</dc:identifier>
+        <dc:title>Fogo &amp; Sangue – Volume 1</dc:title>
+        <dc:creator opf:file-as="Martin, George R. R. &amp; Wheatley, Doug &amp; Alves, Leonardo &amp; Winarski, Regiane" opf:role="aut">George R. R. Martin</dc:creator>
+        <dc:creator opf:file-as="Martin, George R. R. &amp; Wheatley, Doug &amp; Alves, Leonardo &amp; Winarski, Regiane" opf:role="aut">Doug Wheatley</dc:creator>
+        <dc:creator opf:file-as="Martin, George R. R. &amp; Wheatley, Doug &amp; Alves, Leonardo &amp; Winarski, Regiane" opf:role="aut">Leonardo Alves</dc:creator>
+        <dc:creator opf:file-as="Martin, George R. R. &amp; Wheatley, Doug &amp; Alves, Leonardo &amp; Winarski, Regiane" opf:role="aut">Regiane Winarski</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-11-20T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;A arrebatadora história dos Targaryen ganha vida neste novo livro de George R.R. Martin, autor de As Crônicas de Gelo e Fogo, série que inspirou a adaptação de sucesso da HBO, "Game of Thrones".&lt;/p&gt;
+&lt;p&gt;Séculos antes dos eventos de &lt;em&gt;A guerra dos tronos&lt;/em&gt; , a Casa Targaryen – única família de senhores dos dragões a sobreviver à Destruição de Valíria – tomou residência em Pedra do Dragão. A história de &lt;em&gt;Fogo &amp;amp; Sangue&lt;/em&gt; começa com o lendário Aegon, o Conquistador, criador do Trono de Ferro, e segue narrando as gerações de Targaryen que lutaram para manter o assento, até a guerra civil que quase destruiu sua dinastia.&lt;br&gt;O que realmente aconteceu durante a Dança dos Dragões? Por que era tão perigoso visitar Valíria depois da Destruição? Quais foram os piores crimes de Maegor, o Cruel? Essas são algumas das questões respondidas neste livro essencial, relatadas por um sábio meistre da Cidadela.&lt;br&gt;Ricamente ilustrado com mais de oitenta imagens assinadas pelo artista Doug Wheatley, &lt;em&gt;Fogo &amp;amp; Sangue&lt;/em&gt; dará aos leitores uma nova e completa visão da fascinante história de Westeros – um livro imperdível para os fãs do autor.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Suma</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788554512941</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07HKPLNHC</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">48582794</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">m3lvDwAAQBAJ</dc:identifier>
+        <dc:language>por</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Dragons &amp; Mythical Creatures</dc:subject>
+        <dc:subject>Historical</dc:subject>
+        <meta name="calibre:series" content="Fogo e Sangue"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-05-19T16:29:37.217754+00:00"/>
+        <meta name="calibre:title_sort" content="Fogo &amp; Sangue – Volume 1"/>
+        <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

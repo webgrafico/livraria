@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">df554321-a63a-4aa6-a7fc-d853d851558a</dc:identifier>
+        <dc:title>O Simbolo Perdido</dc:title>
+        <dc:creator opf:file-as="Brown, Dan" opf:role="aut">Dan Brown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-01-02T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Do mesmo autor do mega-seller O Código Da Vinci.“Uma leitura fascinante. Dan Brown faz cair por terra tudo aquilo que pensávamos saber sobre o mundo.” – Newsweek“O símbolo perdido é denso, exótico, cheio de códigos e pistas, imagens impressionantes e a dinâmica incessante que torna impossível deixá-lo de lado. Esplêndido. Outra história impressionante de Robert Langdon.” – The New York TimesEste livro faz parte da coleção Pop Chic da Editora Arqueiro.Robert Langdon, o célebre simbologista de Harvard, é convidado por seu amigo e mentor Peter Solomon – eminente maçom e filantropo – a dar uma palestra no Capitólio dos Estados Unidos. Ao chegar lá, descobre que caiu numa armadilha: não há palestra, Solomon está desaparecido e, ao que parece, correndo perigo.Mal’akh, o sequestrador, acredita que os fundadores de Washington, a maioria deles mestres maçons, esconderam na cidade um tesouro capaz de dar poderes sobre-humanos a quem o encontrasse. E está convencido de que Langdon é o único que pode localizá-lo.Vendo que essa é sua única chance de salvar Solomon, o simbologista percorre o Capitólio, a Biblioteca do Congresso, a Catedral Nacional e o Centro de Apoio dos Museus Smithsonian. Neste labirinto de códigos maçônicos e símbolos escondidos, Langdon conta com a ajuda de Katherine, irmã de Peter e renomada cientista.O tempo está contra eles. E muitas outras pessoas parecem envolvidas nesta trama que ameaça a segurança nacional, entre elas a diretora do Escritório de Segurança da CIA e o supervisor do Capitólio. Quando se trata de segredos e poder, nunca se pode dizer ao certo de que lado cada um está.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>ARQUEIRO</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9786555650693</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">6555650699</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">7311357</dc:identifier>
+        <dc:language>por</dc:language>
+        <dc:subject>Viagem e Aventura</dc:subject>
+        <meta name="calibre:series" content="Robert Langdon"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:22:49+00:00"/>
+        <meta name="calibre:title_sort" content="Simbolo Perdido, O"/>
+        <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

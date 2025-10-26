@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">198</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2b5760bf-7855-41d3-a2ee-bdd38e389824</dc:identifier>
+        <dc:title>Doutor da Conquista: Um Guia Rápido Para Obter Todas as Mulheres Que Você Quiser Ter</dc:title>
+        <dc:creator opf:file-as="Renato, Davidson" opf:role="aut">Davidson Renato</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-04-09T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;"FINALMENTE! Descobri os segredos do Homem Conquistador que pode permitir que você comece a namorar qualquer Garota tão rápido quanto um cowboy atira sua com sua pistola!"&lt;br&gt;E isso vai ser a melhor coisa que poderia acontecer a um cara sortudo como você ... Seja rico ou não, bonito ou não!&lt;br&gt;SE NÃO ME ENGANO, VOCÊ É O TIPO DE CARA &lt;br&gt;Está doente e cansado de ter que suportar o tormento de rotina das mulheres que o rejeitam toda vez que você pede um encontro?&lt;br&gt;Está farto de ver outros caras saindo com garotas QUENTES no shopping - e às vezes você acha que é injustiça quando até um cara mais feio do que você está tendo o tipo de mulher que você mais admira?&lt;br&gt;Tem medo de mergulhar na cena do namoro e encontrar mulheres mais próximas do que lutar com crocodilos? E,&lt;br&gt;Está chateado com a solidão por estar sozinho ou temendo a ideia de se contentar com mulheres abaixo da média?&lt;br&gt;AGORA ACREDITE OU NÃO,VOCÊ NÃO ESTA SOZINHO.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07C2ZQG61</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">39844782</dc:identifier>
+        <dc:language>por</dc:language>
+        <meta name="calibre:timestamp" content="2025-10-26T16:46:17.500389+00:00"/>
+        <meta name="calibre:title_sort" content="Doutor da Conquista: Um Guia Rápido Para Obter Todas as Mulheres Que Você Quiser Ter"/>
+        <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

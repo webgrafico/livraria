@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">203</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c5eed0d7-f281-40ef-a55d-d2861775c626</dc:identifier>
+        <dc:title>Anomalia</dc:title>
+        <dc:creator opf:file-as="Azevedo, Clara" opf:role="aut">Clara Azevedo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-12-04T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Clara L. Azevedo, autora da série Aurum, está de volta com sua nova duologia de ficção científica jovem-adulta. &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Terra, Zona Neutra - Via Láctea, ano de 2112 &lt;/p&gt;
+&lt;p&gt;Uma anomalia foi detectada nos limites do sistema solar e para impedir que se aproxime da Terra, a Pegasus, a maior empresa de tecnologia do mundo, é contratada por todas as Nações para aniquilar o objeto não-identificado em sigilo. Agora cabe a ela escolher as pessoas certas para essa missão. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sierra Garcia&lt;/strong&gt; é uma garota de mente brilhante, conseguindo calcular o que quiser em segundos, a única coisa que a impede de seguir o seu maior sonho é a Asteriscus, uma das gangues mais poderosas do país comandada por seu tio, o Barão. Cansada da vida difícil que é obrigada a ter, a garota genia decide seguir os desejos do próprio coração. Porém, quando uma proposta inusitada bate à sua porta, ela terá que decidir entre o que mais deseja ou o bem de toda humanidade. &lt;/p&gt;
+&lt;p&gt;Uma garota genial, uma astronauta habilidosa, um piloto traumatizado, um marciano curioso e uma alienígena cheia de segredos terão que se unir para salvar o mundo de uma anomalia que veio dos confins do cosmo, eles só não esperavam que a verdadeira ameaça fosse estar bem abaixo de seus pés em terra firme.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Clara Azevedo (Distopica Sem Rumo)</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0CP6FX4ZY</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">202931625</dc:identifier>
+        <dc:language>por</dc:language>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2025-10-26T16:46:19.881410+00:00"/>
+        <meta name="calibre:title_sort" content="Anomalia"/>
+        <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

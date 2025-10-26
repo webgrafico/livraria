@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">168</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0df4e764-110b-48ca-8ff5-b0c74dd58490</dc:identifier>
+        <dc:title>Mude seus horários, mude sua vida</dc:title>
+        <dc:creator opf:file-as="Kshirsagar, Suhas" opf:role="aut">Suhas Kshirsagar</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-01-30T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Como usar o relógio biológico para perder peso, reduzir o estresse, dormir melhor e ter mais saúde e energia. &lt;/p&gt;
+&lt;p&gt;"Dr. Suhas revela os benefícios de viver uma vida alinhada com os ritmos naturais do corpo. Passando longe das dietas da moda e das soluções rápidas, ele oferece sugestões reais de mudanças saudáveis, simples e viáveis. &lt;/p&gt;
+&lt;p&gt;" – Dr. Anand Dhruva, professor da faculdade de medicina da Universidade da Califórnia Hábitos como pular refeições, exercitar-se no meio do dia, trabalhar até tarde e tentar "recuperar o sono" no fim de semana atrapalham o ritmo natural do organismo e podem gerar consequências graves para nossa saúde. &lt;/p&gt;
+&lt;p&gt;Nosso relógio biológico determina os horários mais propícios para as principais atividades do dia a dia. Ao fazer pequenas mudanças na rotina – como almoçar ao meio-dia, desligar os aparelhos eletrônicos às 20h e fazer exercícios antes do café da manhã –, podemos administrar com mais facilidade o peso, o sono, o estresse, a inflamação e muito mais. &lt;/p&gt;
+&lt;p&gt;Combinando a antiga sabedoria ayurvédica com as mais recentes pesquisas científicas na área da cronobiologia, Dr. Suhas Kshirsagar explica como sincronizar nossa programação diária com o ciclo natural de luz e, assim, fazer com que todo o sistema trabalhe com menos esforço. &lt;/p&gt;
+&lt;p&gt;Com dicas nutricionais, informações sobre a ciência do sono e testes para identificar seu tipo de corpo e seus padrões de comportamento, Mude seus horários, mude sua vida apresenta o cronograma ideal para suprir suas necessidades específicas de nutrição, trabalho, repouso e exercício.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>GMT</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">OATNMWCXJ4FN6RDDGT7QVV3UWYQV34BS</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788543109213</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">53460624</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">zhrHDwAAQBAJ</dc:identifier>
+        <dc:language>por</dc:language>
+        <dc:subject>Non-Fiction</dc:subject>
+        <dc:subject>Health</dc:subject>
+        <dc:subject>Self Help</dc:subject>
+        <dc:subject>1. Ritmos circadianos - Aspectos da saúde. 2. Medicina ayurvédica. 3. Ritmos biológicos.</dc:subject>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2025-10-25T15:40:44+00:00"/>
+        <meta name="calibre:title_sort" content="Mude seus horários, mude sua vida"/>
+        <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

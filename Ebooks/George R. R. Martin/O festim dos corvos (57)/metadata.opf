@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">57</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4161c79c-36ce-487e-b175-27c6c7e7843d</dc:identifier>
+        <dc:title>O festim dos corvos</dc:title>
+        <dc:creator opf:file-as="Martin, George R. R." opf:role="aut">George R. R. Martin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-05-01T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;"O QUARTO VOLUME DA SAGA ÉPICA AS CRÔNICAS DE GELO E FOGO CHEGA ÀS LIVRARIAS Uma reviravolta nos Sete Reinos! Traições, mortes, novos senhores, novas alianças, alguns velhos traidores e o anúncio de dragões vivos além-mar. Quem em Westeros pode ser confiável agora? Ajudada por Mindinho, que tem outros planos para a garota que agora é a Senhora de Winterfell, Sansa finalmente conseguiu fugir do castelo em Porto Real? já que Robb e Catelyn foram executados pelos Frey, e Bran e Rickon desapareceram. Arya está sozinha vagando pelas florestas de Westeros em busca do Castelo Preto e Branco. John Snow, agora comandante da Patrulha da Noite, precisa reestruturar a Muralha e os irmãos de negro e defender, ou não, os interesses do Rei Stannis Baratheon. Enquanto isso, os dragões avançam pelo mar... O festim dos corvos anuncia o que se pode chamar de o fim da guerra e o início de uma busca infindável por repostas: Onde estão os Outros? Para onde fugiram os Selvagens? Quem matou Joffrey? Bran, Rickon e Catelyn estão realmente mortos? Até que ponto os laços de sangue salvarão os elos que mantém o Trono de Ferro erguido? E o inverno está cada vez mais próximo, e pelos maus presságios, será avassalador. &lt;/p&gt;
+&lt;p&gt;"&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Leya</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">mmai2pe5FYgC</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788580445053</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">29350473</dc:identifier>
+        <dc:language>por</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:series" content="As crônicas de gelo e fogo"/>
+        <meta name="calibre:series_index" content="4"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:45:49+00:00"/>
+        <meta name="calibre:title_sort" content="festim dos corvos, O"/>
+        <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

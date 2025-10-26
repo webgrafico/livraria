@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">129</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dedbce2c-c8eb-4674-87db-2e37c5f8df18</dc:identifier>
+        <dc:title>O clube das 5 da manhã</dc:title>
+        <dc:creator opf:file-as="Sharma, Robin" opf:role="aut">Robin Sharma</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-08-22T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-family: &amp;quot;'MS Shell Dlg 2'&amp;quot;,'sans-serif'; font-size: 12px"&gt;O que Jack Dorsey, cofundador do Twitter, Jeff Bezos da Amazon e Tim Cook da Apple têm em comum, além de serem profissionais extremamente bem-sucedidos? Todos eles acordam, todos os dias, às cinco da manhã. &lt;/p&gt;
+&lt;p style="font-family: &amp;quot;'MS Shell Dlg 2'&amp;quot;,'sans-serif'; font-size: 12px"&gt;Há mais de vinte anos, Robin Sharma, especialista em liderança e gerenciamento de alto desempenho, introduziu o conceito do Clube das 5 da manhã, baseado em uma revolucionária rotina matinal que ajudou seus clientes a aumentarem sua produtividade, ser mais saudáveis e conquistar serenidade nesses tempos turbulentos em que vivemos.&lt;/p&gt;
+&lt;p style="font-family: &amp;quot;'MS Shell Dlg 2'&amp;quot;,'sans-serif'; font-size: 12px"&gt;A técnica de Robin se tornou um movimento internacional, alimentado por vídeos e fotos de seus adeptos e virando uma hashtag viral, a #5AMClub.&lt;/p&gt;
+&lt;p style="font-family: &amp;quot;'MS Shell Dlg 2'&amp;quot;,'sans-serif'; font-size: 12px"&gt;Em O clube das 5 da manhã Robin Sharma vai destrinchar seu método a partir de uma história encantadora e divertida sobre dois estranhos enfrentando problemas na vida pessoal e na carreira que após conhecerem um excêntrico magnata vão embarcar em uma incrível jornada de autoconhecimento e mudança.&lt;/p&gt;
+&lt;p style="font-family: &amp;quot;'MS Shell Dlg 2'&amp;quot;,'sans-serif'; font-size: 12px"&gt;Usando personagens carismáticos e com os quais todos nós podemos nos identificar, o autor vai defender sua teoria de que é nas primeiras horas da manhã que os heróis se preparam e que dominar essas horas é dominar toda sua vida!&lt;/p&gt;
+&lt;p style="font-family: &amp;quot;'MS Shell Dlg 2'&amp;quot;,'sans-serif'; font-size: 12px"&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p style="font-family: &amp;quot;'MS Shell Dlg 2'&amp;quot;,'sans-serif'; font-size: 12px"&gt;Sobre o Autor&lt;/p&gt;
+&lt;p style="font-family: &amp;quot;'MS Shell Dlg 2'&amp;quot;,'sans-serif'; font-size: 12px"&gt;Robin Sharma é um dos maiores especialistas em liderança do mundo. Seu trabalho e suas técnicas são adotados por astros do rock, pela realeza, por bilionários e muitos CEOs famosos. Com mais de 15 milhões de livros vendidos, clientes como Starbucks, Nike, GE, Coca-Cola, NASA e Microsoft estão usando seus métodos de liderança e desenvolvimento corporativo e pessoal para impulsionar seu crescimento e ter o melhor desempenho possível. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Best Seller</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788576844716</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07VVRQDWZ</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">52163216</dc:identifier>
+        <dc:language>por</dc:language>
+        <dc:subject>1. Motivação (Psicologia). 2. Autoconsciência. 3. Autorrealização. 4. Sucesso - Aspectos psicológicos.</dc:subject>
+        <meta name="calibre:timestamp" content="2023-05-19T14:08:11.952654+00:00"/>
+        <meta name="calibre:title_sort" content="clube das 5 da manhã, O"/>
+        <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

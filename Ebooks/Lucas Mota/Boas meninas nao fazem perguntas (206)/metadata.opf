@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">206</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">139a68d6-713d-4bae-83fa-a9b08d5cff2f</dc:identifier>
+        <dc:title>Boas meninas não fazem perguntas</dc:title>
+        <dc:creator opf:file-as="Mota, Lucas" opf:role="aut">Lucas Mota</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-07-01T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Após uma descoberta científica questionável, a Metrópole superou seus anos de recessão econômica através da legalização do comércio de mulheres. &lt;/p&gt;
+&lt;p&gt;Cansada de ser tratada como um produto, Marina decide fugir. Para isso, precisará enfrentar a Força, um departamento policial com alta tecnologia especializado na vigilância e aprisionamento feminino. Isso, é claro, se puder se livrar de sua coleira, que emite choques ao ser removida além de denunciar sua localização.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07FMZN1YF</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">44152157</dc:identifier>
+        <dc:language>por</dc:language>
+        <meta name="calibre:rating" content="6"/>
+        <meta name="calibre:timestamp" content="2025-10-26T16:46:20.564415+00:00"/>
+        <meta name="calibre:title_sort" content="Boas meninas não fazem perguntas"/>
+        <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

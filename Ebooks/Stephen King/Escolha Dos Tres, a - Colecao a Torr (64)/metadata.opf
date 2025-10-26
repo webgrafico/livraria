@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">64</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e08c97c1-898b-47dd-93b9-771b42eed606</dc:identifier>
+        <dc:title>Escolha Dos Três, a - Coleção a Torre Negra - Vol Ii</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-05-15T03:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;Após a morte do Homem de Preto, Roland de Gilead se vê diante de três portas que o levam do Mundo Médio para três épocas diferentes da Nova York do nosso mundo. Em 1987, ele encontra Eddie Dean, um viciado em heroína que está tentando entrar em Manhattan contrabandeando um quilo de cocaína pura. Em 1964, descobre Odetta Holmes, uma negra paraplégica, ativista do movimento pelos direitos civis, cuja mente abriga também a malévola Detta Walker. Com a ajuda de Roland e Eddie, essas duas personalidades se tornarão Susannah Dean, que se unirá ao ka-tet do pistoleiro, o círculo de pessoas cujo ka está interligado. A terceira e última porta leva Roland ao ano de 1977 onde ele terá que se confrontar com o temível Jack Mort, psicopata responsável por uma tragédia crucial na história, a morte de Jake Chambers, mas também pela dupla personalidade de Susannah.&lt;/p&gt;</dc:description>
+        <dc:publisher>Objetiva</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788573026481</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">LdzDwAEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">3030058</dc:identifier>
+        <dc:language>por</dc:language>
+        <meta name="calibre:series" content="A Torre Negra"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:57:48.757477+00:00"/>
+        <meta name="calibre:title_sort" content="Escolha Dos Três, a - Coleção a Torre Negra - Vol Ii"/>
+        <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

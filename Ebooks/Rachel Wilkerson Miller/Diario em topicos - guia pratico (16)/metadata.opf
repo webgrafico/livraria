@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2fcd9303-9127-4816-9b39-6b2dc37d4662</dc:identifier>
+        <dc:title>Diário em tópicos - guia prático</dc:title>
+        <dc:creator opf:file-as="Miller, Rachel Wilkerson &amp; Medina, Beatriz" opf:role="aut">Rachel Wilkerson Miller</dc:creator>
+        <dc:creator opf:file-as="Miller, Rachel Wilkerson &amp; Medina, Beatriz" opf:role="aut">Beatriz Medina</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-07-31T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Organize sua vida, anote o que importa e faça o que tem de ser feito. &lt;/p&gt;
+&lt;p&gt;Você sabe o que é um diário em tópicos? &lt;/p&gt;
+&lt;p&gt;É uma mistura de agenda, diário e lista de afazeres que virou febre entre as pessoas que querem organizar sua vida de um jeito interessante e criativo. &lt;/p&gt;
+&lt;p&gt;Também conhecido como Dot Journal e Bullet Journal, ele reúne em um único caderno tudo o que você considera importante: compromissos, tarefas, eventos, pensamentos, metas e o que mais desejar. &lt;/p&gt;
+&lt;p&gt;Você pode escrever sobre todos os aspectos da sua vida, como trabalho, relacionamentos, saúde, finanças e lazer. A ideia é usar frases curtas para localizar suas anotações com facilidade. &lt;/p&gt;
+&lt;p&gt;Aqui você vai encontrar os conceitos fundamentais da organização em tópicos, bem como dezenas de fotos que ilustram o método. No entanto, não existem regras: seu diário pode ser simples e objetivo ou artístico e elaborado, com caligrafia caprichada e colorida, desenhos, adesivos, etc. &lt;/p&gt;
+&lt;p&gt;Aprenda como aproveitar ao máximo as infinitas possibilidades desta técnica: &lt;/p&gt;
+&lt;p&gt;• Crie listas de compras, de tarefas, de filmes e séries para assistir, de coisas pelas quais se sente grato, checklists de viagens e muito mais. &lt;/p&gt;
+&lt;p&gt;• Monte páginas especiais para planejar o dia, a semana, o mês e o ano. &lt;/p&gt;
+&lt;p&gt;• Elabore tabelas para acompanhar seus hábitos e monitorar sua saúde, seu humor, seu dinheiro, etc. &lt;/p&gt;
+&lt;p&gt;• Use símbolos que tornem suas anotações mais eficientes. &lt;/p&gt;
+&lt;p&gt;• Conheça acessórios como washi tapes e as melhores canetas e marcadores para decorar o seu diário. &lt;/p&gt;
+&lt;p&gt;Registrar o que acontece na sua vida não é apenas uma forma de se organizar, é também uma excelente oportunidade de olhar para si mesmo. Comece a praticar nas páginas pontilhadas no final do livro e veja como sua rotina pode se tornar mais descomplicada e prazerosa!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editora Sextante</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788543105239</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">BT2N2NKVPGOZQAM4RRHWGRXXCD66CNJ4</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">8543105234</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">35844509</dc:identifier>
+        <dc:language>por</dc:language>
+        <dc:subject>Self Help</dc:subject>
+        <dc:subject>Writing</dc:subject>
+        <dc:subject>Reference</dc:subject>
+        <dc:subject>Art</dc:subject>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2022-07-27T15:44:19+00:00"/>
+        <meta name="calibre:title_sort" content="Diário em tópicos - guia prático"/>
+        <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

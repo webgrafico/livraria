@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">174</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0c00c85b-fd2b-451d-840d-c92a1ab7bd68</dc:identifier>
+        <dc:title>Duna – Graphic Novel Volume 1</dc:title>
+        <dc:creator opf:file-as="Herbert, Frank" opf:role="aut">Frank Herbert</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-01-18T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Obra-prima da ficção científica, que ganhará aguardada adaptação para o cinema, Duna retorna em uma graphic novel exuberante e imperdível Em 1965, um livro revolucionaria por completo a ficção científica e se tornaria um marco da literatura e da cultura pop. Com sua narrativa inovadora, unindo aventura, fantasia, religião, política, tecnologia e ecologia, Duna é uma das sagas mais bem-sucedidas da história e inspirou outros clássicos, como Star Wars , Blade Runner e Alien . Agora, essa obra-prima ganha uma versão em graphic novel fiel à exuberância e à complexidade do universo criado por Frank Herbert. Num futuro distante, a casa Atreides, liderada pelo duque Leto, se prepara para uma jornada até o planeta desértico de Arrakis. Também conhecido como “Duna”, esse lugar cercado de mistérios e perigos é a única fonte da substância mais valiosa do cosmos. O duque precisará se aliar aos nativos, os fremen, se quiser impedir que a casa Harkonnen assuma o controle do planeta. E é lá que seu filho, Paul, conhecerá seu destino. O jovem pode ser a chave de um plano traçado há séculos e uma peça importante no jogo de poderes do império. Adaptado com maestria por Brian Herbert, filho do autor, e por Kevin J. Anderson, este primeiro volume da série de graphic novels conta com as cores vibrantes das artes de Raúl Allén e Patricia Martín. Em 2021, a aguardada adaptação dirigida por Denis Villeneuve chega aos cinemas, com Timothée Chalamet e Zendaya no elenco.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Intrínseca</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9786555601183</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">aFH1zwEACAAJ</dc:identifier>
+        <dc:language>por</dc:language>
+        <dc:subject>Comics &amp; Graphic Novels</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Adaptations</dc:subject>
+        <dc:subject>Young Adult Fiction</dc:subject>
+        <meta name="calibre:timestamp" content="2025-10-25T15:40:44+00:00"/>
+        <meta name="calibre:title_sort" content="Duna – Graphic Novel Volume 1"/>
+        <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

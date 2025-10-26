@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">75</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5400fc7c-8fd8-4e26-8eab-dabdacbde03c</dc:identifier>
+        <dc:title>Opus Dei: An Investigation Into the Powerful Secretive Society Within the Catholic Church</dc:title>
+        <dc:creator opf:file-as="Walsh, Michael" opf:role="aut">Michael Walsh</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1992-01-01T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Uma visão interna da organização católica secreta tornada famosa por O Código Da Vinci&lt;/p&gt;
+&lt;p&gt;O Opus Dei é um instituto espiritual dedicado a preservar a ortodoxia católica diante do ataque modernista? Ou é uma sociedade independente, uma "igreja dentro da Igreja", promovendo suas próprias lealdades e preservando um conjunto antiquado de práticas espirituais e penitenciais?&lt;/p&gt;
+&lt;p&gt;Esta pequena organização exerce um enorme poder dentro da Igreja Católica. Devido ao seu status de "prelazia pessoal" do papa, opera independentemente da autoridade local da Igreja. A influência do Opus Dei só aumentou desde que este livro apareceu pela primeira vez.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;O fundador do Opus Dei, São Josemar#237;a Escriv#225;, foi beatificado e canonizado apesar das veementes objeções de muitos na Igreja Católica.&lt;/li&gt;
+&lt;li&gt;Membros poderosos da hierarquia do Vaticano, incluindo o próprio porta-voz do papa, são membros.&lt;/li&gt;
+&lt;li&gt;O romance best-seller O Código Da Vinci tornou milhões conscientes do Opus Dei.&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;Esta investigação clássica é necessária agora mais do que nunca. Ele conta a história real dessa misteriosa organização - um exame minucioso, mas equilibrado, da organização, seu fundador carismático, suas práticas e seu efeito sobre a Igreja Católica em geral.&lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>HarperOne</dc:publisher>
+        <dc:identifier opf:scheme="GOODREADS">351090</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0060750685</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780060750688</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">4gTM3PZXJ2cC</dc:identifier>
+        <dc:language>por</dc:language>
+        <dc:subject>History</dc:subject>
+        <dc:subject>Religion</dc:subject>
+        <meta name="calibre:rating" content="6"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:59:54+00:00"/>
+        <meta name="calibre:title_sort" content="Opus Dei: An Investigation Into the Powerful Secretive Society Within the Catholic Church"/>
+        <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

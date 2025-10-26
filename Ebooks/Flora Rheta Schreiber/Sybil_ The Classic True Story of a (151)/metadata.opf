@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">151</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0df03f5b-f574-4db0-bff5-b649aeca61b5</dc:identifier>
+        <dc:title>Sybil: The Classic True Story of a Woman Possessed by Sixteen Personalities</dc:title>
+        <dc:creator opf:file-as="Schreiber, Flora Rheta" opf:role="aut">Flora Rheta Schreiber</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1973-01-01T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;"Sybil", escrito por Flora Rheta Schreiber, narra a incrível&lt;/p&gt;
+&lt;p&gt;história verídica de Sybil Dorsett, uma mulher atormentada&lt;/p&gt;
+&lt;p&gt;pelos traumas de sua infância. Na vida adulta, ela enfrenta&lt;/p&gt;
+&lt;p&gt;apagões desconcertantes, durante os quais perde toda a&lt;/p&gt;
+&lt;p&gt;memória de si mesma. Ao mergulhar profundamente em sua&lt;/p&gt;
+&lt;p&gt;psique, este relato notável revela as origens de seu transtorno&lt;/p&gt;
+&lt;p&gt;dissociativo de identidade, tornando a jornada de Sybil um dos&lt;/p&gt;
+&lt;p&gt;casos psicológicos mais significativos da história.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Grand Central Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780446359405</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">67920</dc:identifier>
+        <dc:identifier opf:scheme="ASIN">B08NK9V3Q7</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Non-Fiction</dc:subject>
+        <dc:subject>Psychology</dc:subject>
+        <dc:subject>Biography</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2025-10-25T15:40:43+00:00"/>
+        <meta name="calibre:title_sort" content="Sybil: The Classic True Story of a Woman Possessed by Sixteen Personalities"/>
+        <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

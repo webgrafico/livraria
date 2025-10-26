@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">189</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0da050a3-3a59-4edd-be4e-0218c8689096</dc:identifier>
+        <dc:title>A Volta ao Mundo em 80 vinhos: Vivendo Experiências Inesquecíveis e Conhecendo Grandes Vinhos, País Por País</dc:title>
+        <dc:creator opf:file-as="Veseth, Mike" opf:role="aut">Mike Veseth</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-11-01T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Inspirado no clássico romance de Júlio Verne, Mike Veseth nos leva à sua &lt;br&gt;volta ao mundo em 80 vinhos. A jornada começa em Londres e continua pela &lt;br&gt;França e pela Itália, para, em seguida, seguir por Síria, Geórgia e Líbano. &lt;br&gt;Em seguida, África do Norte até a Argélia, Espanha e Portugal. &lt;br&gt;Desembarcamos na Ilha da Madeira e depois na África do Sul, onde fazemos &lt;br&gt;um desvio para saborear os vinhos do Quênia. &lt;br&gt;Nossa rota continua com visitas a Bali, à Tailândia e à Índia &lt;br&gt;e um prolongamento rumo ao Norte da China para visitar Xangri-lá. &lt;br&gt;Partimos, então, para a Austrália, com uma passagem pela Tasmânia, pela Nova &lt;br&gt;Zelândia, pelo Chile e pela Argentina. Embarcamos no Trem do Vinho &lt;br&gt;do Napa Valley, na Califórnia, e passeamos pelos Estados Unidos, terminando &lt;br&gt;novamente em Londres. &lt;br&gt;Por que exatamente esses lugares? Quais são os oitenta vinhos e o que eles &lt;br&gt;nos revelam? E que surpresa nos aguarda ao final dessa inebriante viagem? &lt;br&gt;Será que teremos uma reviravolta para garantir um final feliz para todos &lt;br&gt;os amantes do vinho? Venha conosco numa jornada de descobertas capaz &lt;br&gt;de inspirar, informar e divertir qualquer um que goste de viagens, aventuras &lt;br&gt;e, claro, vinhos. Muitos vinhos!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editora Valentina</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9786588490808</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">215998468</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">owcSEQAAQBAJ</dc:identifier>
+        <dc:language>por</dc:language>
+        <dc:subject>Travel</dc:subject>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2025-10-25T15:40:45+00:00"/>
+        <meta name="calibre:title_sort" content="Volta ao Mundo em 80 vinhos: Vivendo Experiências Inesquecíveis e Conhecendo Grandes Vinhos, País Por País, A"/>
+        <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

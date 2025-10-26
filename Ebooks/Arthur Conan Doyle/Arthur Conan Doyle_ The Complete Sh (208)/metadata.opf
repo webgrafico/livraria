@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">208</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ca57e470-df31-4a42-b7d2-5ef48145f89d</dc:identifier>
+        <dc:title>Arthur Conan Doyle: The Complete Sherlock Holmes</dc:title>
+        <dc:creator opf:file-as="Doyle, Arthur Conan" opf:role="aut">Arthur Conan Doyle</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-03-03T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Sherlock Holmes is a fictional detective of the late 19th and early 20th centuries, who first appeared in publication in 1887. He is the creation of Scottish born author and physician Sir Arthur Conan Doyle. A brilliant London-based detective, Holmes is famous for his intellectual prowess, and is renowned for his skillful use of deductive reasoning (somewhat mistakenly - see inductive reasoning) and astute observation to solve difficult cases. He is arguably the most famous fictional detective ever created, and is one of the best known and most universally recognizable literary characters in any genre. &lt;/p&gt;
+&lt;p&gt;Conan Doyle wrote four novels and fifty-six short stories that featured Holmes. All but four stories were narrated by Holmes' friend and biographer, Dr. John H. Watson, two having been narrated by Holmes himself, and two others written in the third person. The first two stories, short novels, appeared in Beeton's Christmas Annual for 1887 and Lippincott's Monthly Magazine in 1890. The character grew tremendously in popularity with the beginning of the first series of short stories in The Strand Magazine in 1891; further series of short stories and two serialized novels appeared almost right up to Conan Doyle's death in 1930. The stories cover a period from around 1878 up to 1903, with a final case in 1914. &lt;/p&gt;
+&lt;p&gt;in this collection you will find: &lt;/p&gt;
+&lt;p&gt;Novels: &lt;/p&gt;
+&lt;p&gt;• A Study in Scarlet&lt;br&gt;• The Sign of the Four&lt;br&gt;• The Hound of the Baskervilles&lt;br&gt;• The Valley of Fear &lt;/p&gt;
+&lt;p&gt;Short Story Collections: &lt;/p&gt;
+&lt;p&gt;• The Adventures of Sherlock Holmes&lt;br&gt;• The Memoirs of Sherlock Holmes&lt;br&gt;• The Return of Sherlock Holmes&lt;br&gt;• His Last Bow&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Oregan Publishing</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B06XWRPXR8</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">34723195</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Crime</dc:subject>
+        <dc:subject>Historical</dc:subject>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2025-10-26T16:46:20.829683+00:00"/>
+        <meta name="calibre:title_sort" content="Arthur Conan Doyle: The Complete Sherlock Holmes"/>
+        <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

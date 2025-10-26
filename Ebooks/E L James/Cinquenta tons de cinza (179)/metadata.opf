@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">179</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">043f4ed4-f37c-4a6f-92a1-9053428c5ce6</dc:identifier>
+        <dc:title>Cinquenta tons de cinza</dc:title>
+        <dc:creator opf:file-as="James, E L" opf:role="aut">E L James</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-11-13T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Quando Anastasia Steele entrevista o jovem empresário Christian Grey, descobre nele um homem atraente, brilhante e profundamente dominador. Ingênua e inocente, Ana se surpreende ao perceber que, a despeito da enigmática reserva de Grey, está desesperadamente atraída por ele. Incapaz de resistir à beleza discreta, à timidez e ao espírito independente de Ana, Grey admite que também a deseja — mas em seus próprios termos. &lt;/p&gt;
+&lt;p&gt;Chocada e ao mesmo tempo seduzida pelas estranhas preferências de Grey, Ana hesita. Por trás da fachada de sucesso — os negócios multinacionais, a vasta fortuna, a amada família —, Grey é um homem atormentado por demônios do passado e consumido pela necessidade de controle. Quando eles embarcam num apaixonado e sensual caso de amor, Ana não só descobre mais sobre seus próprios desejos, como também sobre os segredos obscuros que Grey tenta manter escondidos...Romântica, libertadora e totalmente viciante. Uma história que vai dominar a atenção do leitor até a última linha. &lt;/p&gt;
+&lt;p&gt;Best-seller da Veja&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editora Intrinseca</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788580572193</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">ErMyz6FTfisC</dc:identifier>
+        <dc:language>por</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Erotica</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Erotic</dc:subject>
+        <meta name="calibre:timestamp" content="2025-10-25T15:40:44+00:00"/>
+        <meta name="calibre:title_sort" content="Cinquenta tons de cinza"/>
+        <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

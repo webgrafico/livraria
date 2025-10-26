@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">50</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f04aa7c3-bdfd-439b-a709-00abd1b75572</dc:identifier>
+        <dc:title>O codigo Da Vinci - Edicao economica</dc:title>
+        <dc:creator opf:file-as="Brown, Dan" opf:role="aut">Dan Brown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-01-02T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Mais de 100 milhões de livros vendidos.Um dos maiores fenômenos editoriais de todos os tempos.“Impossível parar de ler. Fascinante e divertido... uma proeza considerável.” – The Washington Post“O Código Da Vinci é fascinante – perfeito para entusiastas de história, amantes de quebra-cabeças, loucos por conspiração e qualquer um que aprecie uma narrativa instigante. Amei este livro.” – Harlan Coben&lt;/p&gt;
+&lt;p&gt;Este livro faz parte da coleção Pop Chic da Editora Arqueiro.Um assassinato no Museu do Louvre traz à tona uma sinistra conspiração para revelar um segredo que foi protegido por uma sociedade secreta desde os tempos de Jesus Cristo.A vítima é o curador do museu, Jacques Saunière, um dos líderes dessa fraternidade, o Priorado de Sião, que já teve como membros Leonardo da Vinci, Victor Hugo e Isaac Newton.&lt;/p&gt;
+&lt;p&gt;Pouco antes de morrer, ele consegue deixar uma mensagem cifrada na cena do crime. Apenas sua neta, a criptógrafa Sophie Neveu, e Robert Langdon, um famoso simbologista de Harvard, podem desvendá-la.Os dois se transformam em suspeitos e em detetives enquanto percorrem as ruas de Paris e de Londres tentando decifrar um intricado quebra-cabeça que pode lhes revelar um segredo milenar que envolve a Igreja Católica.Poucos passos à frente das autoridades e do assassino, Sophie e Robert buscam pistas nas obras de Da Vinci e se debruçam sobre alguns dos maiores mistérios da cultura ocidental – da natureza do sorriso da Mona Lisa ao significado do Santo Graal.Mesclando com perfeição suspense, informações sobre obras de arte, documentos e rituais secretos, Dan Brown consagrou-se como um dos autores mais brilhantes da atualidade.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editora Arqueiro</dc:publisher>
+        <dc:identifier opf:scheme="GOODREADS">67557</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">6555651040</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9786555651041</dc:identifier>
+        <dc:language>por</dc:language>
+        <dc:subject>Viagem e Aventura</dc:subject>
+        <meta name="calibre:series" content="Robert Langdon"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:22:49+00:00"/>
+        <meta name="calibre:title_sort" content="codigo Da Vinci - Edicao economica, O"/>
+        <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

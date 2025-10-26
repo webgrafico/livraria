@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">123</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fd070e3b-f222-4e47-85dd-ab53665f3596</dc:identifier>
+        <dc:title>O Grito do Hip-Hop</dc:title>
+        <dc:creator opf:file-as="Puntel, Luiz &amp; Chaguri, Fátima" opf:role="aut">Luiz Puntel</dc:creator>
+        <dc:creator opf:file-as="Puntel, Luiz &amp; Chaguri, Fátima" opf:role="aut">Fátima Chaguri</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-01-01T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Morando numa favela lá pros lados do Capão Redondo, periferia de São Paulo, Toninho leva uma vida difícil. Órfão desde muito cedo, trabalha para ajudar sua mãe e sua irmã, convivendo diariamente com a pobreza, o desemprego, a criminalidade. Nem por isso deixa de se divertir. Com seus amigos Gera e Beó adora pichar muros e paredes, deixando a marca da turma pela cidade. A alegria rápida do spray, contudo, vai perdendo a graça à medida que Toninho entra em contato com ativistas do movimento hip-hop (rappers, grafiteiros, educadores). Aqui você vai acompanhar os passos dessa descoberta, o percurso de um grito que nasce da indignação.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ática</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">8508091656</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">22023706</dc:identifier>
+        <dc:language>por</dc:language>
+        <meta name="calibre:series" content="Vaga-lume"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-05-18T15:19:11+00:00"/>
+        <meta name="calibre:title_sort" content="Grito do Hip-Hop, O"/>
+        <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

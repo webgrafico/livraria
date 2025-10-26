@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">212</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cad614bb-095a-4768-bd14-d8409a15aa5a</dc:identifier>
+        <dc:title>A Bíblia Social: Conquistando Amigos e Influenciando Pessoas no Século 21</dc:title>
+        <dc:creator opf:file-as="Renato, Davidson" opf:role="aut">Davidson Renato</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-04-10T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;"Imagine se você tem o controle total e toda felicidade na vida, tendo os melhores relacionamentos com todas as pessoas ao seu redor!" Descubra como você ou qualquer um pode viver uma vida plena ao se tornar um profissional em sua vida social! Todos os seus amigos vão te amar e você vai desfrutar de amizades como nunca antes experienciou!&lt;br&gt;Neste livro, você aprenderá:&lt;br&gt;✔ Construa a base certa quando se trata de conviver com os outros, entendendo como as pessoas trabalham e como se relaciona de uma maneira autêntica sem ferir os outros.&lt;br&gt;✔ Como sobreviver na era do trabalhador e do conhecimento ... Descubra como a comunicação mudou no século XXI.&lt;br&gt;✔ O que significa viver uma vida equilibrada quando se trata de habilidades sociais e relacionamentos. Você deve acreditar que você pode ter bons relacionamentos!&lt;br&gt;✔ Aprenda a conquistar os outros da maneira que você pensa. Admita seus erros graciosamente e conquiste os inimigos também!&lt;br&gt;✔ Formas criativas de melhorar a maneira de se comunicar com os outros. Saiba como lidar com as reclamações com sabedoria e obter cooperação até das pessoas mais difíceis do mundo!&lt;br&gt;✔ Quais são as melhores maneiras de se entender e estabelecer uma comunicação genuína com os outros?&lt;br&gt;✔ Aprenda a arte de sobreviver no casamento e ajudar seu cônjuge a crescer também ...&lt;br&gt;✔ A coisa mais importante que você deve mudar se você quiser encontrar felicidade duradoura nos relacionamentos!&lt;br&gt;✔ E muito mais!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07C4MG5WK</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">39837017</dc:identifier>
+        <dc:language>por</dc:language>
+        <meta name="calibre:timestamp" content="2025-10-26T16:46:22.573101+00:00"/>
+        <meta name="calibre:title_sort" content="Bíblia Social: Conquistando Amigos e Influenciando Pessoas no Século 21, A"/>
+        <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">21409d62-c47f-421c-8ded-d88cfc7b0393</dc:identifier>
+        <dc:title>Por Que Os Homens Fazem Sexo E as Mulheres Fazem A</dc:title>
+        <dc:creator opf:file-as="Pease, Allan" opf:role="aut">Allan Pease</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-01-02T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Este livro e leitura obrigatoria para todos os homens e mulheres que se amam, se odeiam ou simplesmente convivem. Voce vai aprender sobre si, sobre o sexo oposto e como melhorar seus relacionamentos."Dr. Denis Waitley, autor de Imperios da Mente &lt;/p&gt;
+&lt;p&gt;Neste livro voce vai conhecer os importantes avancos da ciencia da evolucao humana e como suas descobertas se aplicam ao relacionamento entre homens e mulheres. Serao apresentadas algumas conclusoes perturbadoras e controversias vao surgir, mas vamos nos reconhecer, entender melhor muitas coisas e, certamente, aprender a conviver melhor.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Sextante</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788586796524</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">8586796522</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">NcmTQgAACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">6162512</dc:identifier>
+        <dc:language>por</dc:language>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:18:05.524968+00:00"/>
+        <meta name="calibre:title_sort" content="Por Que Os Homens Fazem Sexo E as Mulheres Fazem A"/>
+        <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

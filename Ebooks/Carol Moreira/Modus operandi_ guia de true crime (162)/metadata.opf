@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">162</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">377bfa74-40e5-4c5c-94a8-9521832bb89a</dc:identifier>
+        <dc:title>Modus operandi: guia de true crime</dc:title>
+        <dc:creator opf:file-as="Moreira, Carol" opf:role="aut">Carol Moreira</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-10-15T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Criadoras do podcast de true crime mais ouvido do Brasil lançam guia completo para quem quer saber tudo sobre o assunto O true crime — filmes, séries e livros que exploram a motivação e o desenrolar de crimes reais — é um dos gêneros mais consumidos no Brasil e no mundo atualmente. Aqui, um sinônimo de true crime é o podcast Modus Operandi , de Carol Moreira e Mabê Bonafé, que nasceu em janeiro de 2020 e angariou uma audiência gigantesca. Agora, as duas trazem para o papel toda a experiência que acumularam em mais de cem episódios em um livro definitivo para quem quer saber tudo desse universo que conquista cada vez mais fãs. Em Modus Operandi: Guia de true crime , as autoras abordam as principais bases do gênero de maneira simples, objetiva e bem-humorada. Entre capítulos sobre sistema de justiça, polícia, investigação, casos arquivados, serial killers e outros, a dupla descreve dezenas de crimes que impactaram o Brasil e o mundo, conta a história de assassinos em série e traz diversas curiosidades e fontes para quem quer saber mais sobre o assunto. Com um visual atraente e um projeto gráfico diversificado ao longo de 400 páginas, Modus Operandi está pronto para repetir nas livrarias o sucesso estrondoso do podcast.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editora Intrínseca</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9786555604337</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">JGnJzwEACAAJ</dc:identifier>
+        <dc:language>por</dc:language>
+        <dc:subject>True Crime</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:timestamp" content="2025-10-25T15:40:44+00:00"/>
+        <meta name="calibre:title_sort" content="Modus operandi: guia de true crime"/>
+        <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

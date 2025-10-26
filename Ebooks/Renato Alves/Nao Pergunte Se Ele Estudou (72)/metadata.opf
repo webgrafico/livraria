@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">72</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a34fa635-fcd8-408e-b2a9-aa7145e52674</dc:identifier>
+        <dc:title>Não Pergunte Se Ele Estudou</dc:title>
+        <dc:creator opf:file-as="Alves, Renato" opf:role="aut">Renato Alves</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-12-25T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Existe uma enorme diferença entre NÃO GOSTAR de estudar e NÃO SABER estudar. Ao dizer que não gosta, o aluno está na verdade, declarando que não sabe estudar. Frases como "Eu não gosto de matemática!", "Odeio História!" ou "Detesto meu professor!" são pedidos de socorro, de quem sequer sabe por onde começar. &lt;/p&gt;
+&lt;p&gt;Combinando conceitos da pedagogia com técnicas avançadas de memorização, Renato Alves reúne nesta obra indispensável, mais de uma década de experiência na preparação de milhares de estudantes, vestibulandos e concurseiros. &lt;/p&gt;
+&lt;p&gt;Será impossível a qualquer pai, aluno ou professor ficarem indiferentes depois de ler o conteúdo deste livro. Com ele, você vai aprender a potencializar estratégias naturais de aprendizagem, utilizar a memória com inteligência, melhorar a motivação e encurtar o caminho para as boas notas e o sucesso nos estudos e na carreira. Um livro destinado a estudantes de todas as idades: &lt;/p&gt;
+&lt;p&gt;1. Alunos cursando ensino médio e fundamental. &lt;/p&gt;
+&lt;p&gt;2. Universitários de todas as áreas. &lt;/p&gt;
+&lt;p&gt;3. Vestibulandos e Concurseiros que desejam passar entre os cinco primeiros. &lt;/p&gt;
+&lt;p&gt;4. Profissionais de todas as áreas que desejam aprender com qualidade e retenção.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Humano Editora</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00HJ9LWUM</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B00HJ9LWUM</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">21395466</dc:identifier>
+        <dc:language>por</dc:language>
+        <dc:subject>Crianças e Adolescentes</dc:subject>
+        <meta name="calibre:rating" content="6"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:56:03+00:00"/>
+        <meta name="calibre:title_sort" content="Não Pergunte Se Ele Estudou"/>
+        <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

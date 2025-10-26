@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">104</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">80639f41-b910-41af-9ce1-91238f4f43d7</dc:identifier>
+        <dc:title>O Fantasma de Tio William</dc:title>
+        <dc:creator opf:file-as="Lucchetti, Rubens Francisco &amp; Muñoz, Daniel" opf:role="aut">Rubens Francisco Lucchetti</dc:creator>
+        <dc:creator opf:file-as="Lucchetti, Rubens Francisco &amp; Muñoz, Daniel" opf:role="aut">Daniel Muñoz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1992-05-15T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Magda ama John, que talvez ame Carmen, que também se chama Filomena e acha a vida um teatro. Nessa confusão, retratos ganham vida, o fantasma de tio William anda a cavalo e uma fórmula secreta põe tudo de pernas para o ar na britânica mansão da família Winston. É uma trama que tem o charme de algumas décadas atrás, num mundo elegante que Rubens Francisco Lucchetti, com muito pique e bom humor, revive para os leitores da &lt;em&gt;Série Vaga-Lume&lt;/em&gt;. E então, vamos embarcar nesta história?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ed. Ática</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788508041275</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">7533074</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">8508041276</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">CyTMkQEACAAJ</dc:identifier>
+        <dc:language>por</dc:language>
+        <meta name="calibre:series" content="Vaga-lume"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="6"/>
+        <meta name="calibre:timestamp" content="2023-05-18T15:18:13+00:00"/>
+        <meta name="calibre:title_sort" content="Fantasma de Tio William, O"/>
+        <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

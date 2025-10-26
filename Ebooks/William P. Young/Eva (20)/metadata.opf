@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7ce3bf60-b547-4dad-80a3-2289270ec731</dc:identifier>
+        <dc:title>Eva</dc:title>
+        <dc:creator opf:file-as="Young, William P." opf:role="aut">William P. Young</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-05-05T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;William P. Young já vendeu mais de 25 milhões de livros no mundo. O que realmente aconteceu no Jardim do Éden? Num suspense emocionante, William P. Young, autor de A cabana (4,5 milhões de exemplares vendidos no Brasil) faz em seu novo livro uma abordagem totalmente nova e inspiradora da história da Criação. &lt;/p&gt;
+&lt;p&gt;Fruto de mais de 40 anos de pesquisas, fiel aos textos bíblicos originais e com uma narrativa primorosa, Eva apresenta um ponto de vista humano e reconfortante de um dos episódios mais tristes das Escrituras: o momento em que o homem vira a face para Deus e é expulso do Paraíso. Com sua capacidade única de emocionar e fazer refletir, o autor trata de temas como perda, culpa, perdão e redenção, e cria uma alegoria sobre a importância de nossas escolhas, a verdade de nossas origens e o poder transformador do amor de Deus. "William P. Young apresenta um romance que irá mexer com a cabeça e o coração dos leitores. O texto é extraordinariamente belo e evoca um novo e sugestivo olhar sobre Deus e a narrativa da Criação. Este livro certamente vai gerar muito interesse - assim como muita controvérsia." - Publishers Weekly&lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>ARQUEIRO</dc:publisher>
+        <dc:identifier opf:scheme="GOODREADS">42272351</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788580414080</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">HODKTC7ER2BNYYEZFLLBTXK7YW6JRUAT</dc:identifier>
+        <dc:language>por</dc:language>
+        <meta name="calibre:timestamp" content="2022-07-27T15:44:20+00:00"/>
+        <meta name="calibre:title_sort" content="Eva"/>
+        <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

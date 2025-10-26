@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">48</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">00f74748-5790-4a30-8988-6562b970f961</dc:identifier>
+        <dc:title>Por que os homens mentem e as mulheres choram?</dc:title>
+        <dc:creator opf:file-as="Pease, Allan &amp; Pease, Barbara" opf:role="aut">Allan Pease</dc:creator>
+        <dc:creator opf:file-as="Pease, Allan &amp; Pease, Barbara" opf:role="aut">Barbara Pease</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-01-02T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Por que os homens mentem?&lt;br&gt;Por que eles acham que tem de estar sempre com a razao?&lt;br&gt;Por que evitam se comprometer?&lt;br&gt;E as mulheres, por que choram para conseguir o que querem?&lt;br&gt;Por que insistem num assunto ate a morte? &lt;/p&gt;
+&lt;p&gt;Este livro e uma preciosa oportunidade para voce eliminar um pouco do sofrimento, da angustia e da confusao da sua vida, aprendendo a se mover no labirinto dos relacionamentos e a identificar pistas escorregadias, curvas traicoeiras e becos sem saida. &lt;/p&gt;
+&lt;p&gt;Com base em pesquisas e estudos cientificos, os autores de Por que os Homens Fazem Sexo e as Mulheres Fazem Amor? - que vendeu mais de 6 milhoes de exemplares ao redor do mundo - explicam o comportamento sempre imprevisivel do "outro sexo". &lt;/p&gt;
+&lt;p&gt;De forma clara e bem-humorada, eles respondem as nossas principais duvidas e apresentam solucoes praticas para tornar a convivencia entre homens e mulheres mais prazerosa.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Sextante</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788575420638</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">8575420631</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">XkTKQwAACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">6260600</dc:identifier>
+        <dc:language>por</dc:language>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:18:05.464054+00:00"/>
+        <meta name="calibre:title_sort" content="Por que os homens mentem e as mulheres choram?"/>
+        <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

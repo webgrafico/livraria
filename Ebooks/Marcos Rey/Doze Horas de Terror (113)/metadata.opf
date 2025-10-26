@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">113</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b6d22fbe-d51c-4f34-b936-3ac695a85387</dc:identifier>
+        <dc:title>Doze Horas de Terror</dc:title>
+        <dc:creator opf:file-as="Rey, Marcos" opf:role="aut">Marcos Rey</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1995-01-01T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Júlio chega na casa do irmão Miguel, encontra o apartamento todo revirado e o telefone toca. Uma voz feminina e desconhecida o alerta para que saia imediatamente. É Ruth, a namorada de Miguel. Ele não conhece ninguém na cidade a não ser o irmão. Ir para onde? A partir daí Júlio e a cunhada vivem doze longas horas de terror pois eles passam a ser perseguidos por perigsoso traficantes de drogas por causa de Miguel que se envolveu com o tráfico de drogas. A cada minuto, qualquer cochilo pode ser fatal.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ática</dc:publisher>
+        <dc:identifier opf:scheme="GOODREADS">6706636</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B001IK1LN6</dc:identifier>
+        <dc:language>por</dc:language>
+        <dc:subject>Childrens</dc:subject>
+        <dc:subject>Young Adult</dc:subject>
+        <meta name="calibre:series" content="Vaga-lume"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="6"/>
+        <meta name="calibre:timestamp" content="2023-05-18T15:18:44+00:00"/>
+        <meta name="calibre:title_sort" content="Doze Horas de Terror"/>
+        <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

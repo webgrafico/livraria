@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">178</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6889b552-730f-4d30-a806-7b86a1996f04</dc:identifier>
+        <dc:title>Criando um Segundo Cérebro</dc:title>
+        <dc:creator opf:file-as="Forte, Tiago" opf:role="aut">Tiago Forte</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-06-14T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;O objetivo deste livro é mudar a forma como lidamos com a informação. &lt;/p&gt;
+&lt;p&gt;Com base nos mais recentes avanços no campo da Gestão do Conhecimento Pessoal, Tiago Forte ensinará você a:• Guardar qualquer coisa que tenha aprendido, pensado ou acessado, podendo encontrar tudo em segundos, sem precisar recriar nada.• Gastar menos tempo procurando algo e mais tempo trabalhando de maneira eficaz e criativa.• Organizar seu conhecimento e usá-lo para concluir projetos e metas de forma mais consistente.• Conectar ideias e perceber padrões em diferentes áreas da vida e, assim, aprender a viver melhor. Um método revolucionário para guardar e acessar informações, aumentar sua produtividade e potencializar suas ideias. &lt;/p&gt;
+&lt;p&gt;Este livro mostra como criar um “Segundo Cérebro”, um sistema para organizar digitalmente seus mais valiosos trabalhos, notas e ideias. &lt;/p&gt;
+&lt;p&gt;Assim, quando surgir a oportunidade de fazer uma apresentação, lançar um produto, mudar de emprego, abrir um negócio ou até mesmo começar uma família, você terá acesso à sabedoria necessária para tomar boas decisões e adotar as medidas mais adequadas. “Criando um segundo cérebro mudou completamente minha forma de pensar sobre as informações que absorvo e sobre meus sistemas de anotações.” – Daniel Pink, autor de Motivação 3.0&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Sextante</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">74CTKLTUVDXBL7K5UFSPOCOVLWPCSWIF</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9786555646627</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">182090676</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">Ru_IEAAAQBAJ</dc:identifier>
+        <dc:language>por</dc:language>
+        <dc:subject>Self Help</dc:subject>
+        <dc:subject>Business</dc:subject>
+        <dc:subject>Psychology</dc:subject>
+        <dc:subject>Writing</dc:subject>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2025-10-25T15:40:44+00:00"/>
+        <meta name="calibre:title_sort" content="Criando um Segundo Cérebro"/>
+        <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

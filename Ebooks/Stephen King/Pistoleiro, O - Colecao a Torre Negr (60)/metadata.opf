@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">60</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4b2db38b-b455-4fd1-9e4c-8d55576cfee7</dc:identifier>
+        <dc:title>Pistoleiro, O - Coleção a Torre Negra - Vol i</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-05-15T03:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;Condenado a vagar por um mundo pós-apocalíptico no encalço de sua nêmesis, o misterioso Homem de Preto, Roland encontra personagens cujo destino está ligado ao seu e que terão um papel crucial em sua caçada. Jake Chambers é um estranho menino que foi transportado para o Mundo-Médio após morrer tragicamente na Nova York de 1977. Alice, uma fascinante mulher da desolada cidade de Tull. O destino - ou ka - reserva a morte para ambos, e Roland terá de contar apenas com suas habilidades como pistoleiro para derrotar o inimigo. Essa jornada através do Mundo Médio o levará irreversivelmente em direção à Torre Negra, que a tudo observa no horizonte distante.&lt;/p&gt;</dc:description>
+        <dc:publisher>Objetiva</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788573026030</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">3oTLwAEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">3030034</dc:identifier>
+        <dc:language>por</dc:language>
+        <meta name="calibre:series" content="A Torre Negra"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:57:48.478776+00:00"/>
+        <meta name="calibre:title_sort" content="Pistoleiro, O - Coleção a Torre Negra - Vol i"/>
+        <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

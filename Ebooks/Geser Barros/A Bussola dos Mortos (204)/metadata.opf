@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">204</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b00c61ba-6804-42ed-9c77-91173093846d</dc:identifier>
+        <dc:title>A Bússola dos Mortos</dc:title>
+        <dc:creator opf:file-as="Barros, Geser" opf:role="aut">Geser Barros</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-08-30T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Pedro Miranda não tem dúvidas de que vai morrer. Depois de o Vírus Pantanense Brasileiro ter varrido 99% da população mundial da face da terra, o jovem de 19 anos vaga pelas ruas de Salvador com nada além de uma bússola quebrada e a certeza da morte aterrorizando cada batida de seu coração. O cenário ficou ainda mais dramático há alguns meses, quando o rapaz esgotou a última cartela de seus inseparáveis antirretrovirais - medicamentos que mantinham o outro vírus com o qual ele convivia, o HIV, sob controle. Apesar do cenário hostil, Pedro ainda alimenta a esperança de que, se a sorte o ajudar a encontrar os remédios, ele poderá voltar a sorrir novamente. &lt;/p&gt;
+&lt;p&gt;Isabel dos Santos não hesitará em meter uma bala na testa de quem quer que apareça em seu caminho, seja ele um infectado pelo Vírus Pantanense ou um ser humano. Ambos são demônios, a seu próprio modo, e a jovem de 21 anos aprendeu essa lição da pior forma possível. Depois que perdeu os pais nos bombardeios a sua cidade natal e viu o próprio tio ser morto em sua frente pelos mesmos homens que a violaram, Isabel guarda a certeza de que a confiança é a somente uma receita eficaz para a catástrofe. Após o longo caminho que percorreu para se reerguer, a garota não pensará duas vezes antes de atirar em qualquer um que possa ameaçar sua tão merecida liberdade. Todavia, a chegada repentina da febre põe os conceitos de Isabel em xeque. &lt;/p&gt;
+&lt;p&gt;A força das circunstâncias obriga a improvável dupla a trabalhar em equipe para alcançar seus objetivos, mas tanto Pedro quanto Isabel sabem que este mundo degenerado não oferece margem para o erro. Pior que os zumbis, muitas vezes, são as pessoas que conseguiram sobreviver a eles - sobretudo nesta terra sem leis, onde a confiança consegue ser ainda mais escassa que a esperança. &lt;/p&gt;
+&lt;p&gt;"A Bússola dos Mortos" é uma distopia nacional que arrebatará seus leitores para as profundezas de um Brasil pós-apocalíptico. Além de uma história frenética e marcada por constantes reviravoltas, a obra propõe uma reflexão refinada sobre algumas das doenças mais prevalentes e negligenciadas no país, bem como uma rica degustação sobre o quanto somos, sem perceber, visceralmente dependentes das redes de cuidado e atenção à saúde em nosso dia a dia.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0CH1CYNWX</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">198309966</dc:identifier>
+        <dc:language>por</dc:language>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2025-10-26T16:46:19.995333+00:00"/>
+        <meta name="calibre:title_sort" content="Bússola dos Mortos, A"/>
+        <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

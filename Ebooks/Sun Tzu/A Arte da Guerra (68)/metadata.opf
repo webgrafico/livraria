@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">68</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8aaa03db-81be-4e57-a644-a8794e504ced</dc:identifier>
+        <dc:title>A Arte da Guerra</dc:title>
+        <dc:creator opf:file-as="Tzu, Sun &amp; Bin, Sun" opf:role="aut">Sun Tzu</dc:creator>
+        <dc:creator opf:file-as="Tzu, Sun &amp; Bin, Sun" opf:role="aut">Sun Bin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-08-06T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Edição conjunta dos maiores clássicos antigos chineses sobre estratégia, organização e comando, 'A arte da guerra' e 'Métodos militares'. Provavelmente a mais famosa obra já escrita sobre estratégia, 'A arte da guerra', de Sun Tzu, vendeu milhões de exemplares, em várias línguas, no mundo todo. Perdida durante mais de duzentos anos e só recuperada em 1972, 'Métodos militares', de Sun Pin (bisneto de Sun Tzu), é uma brilhante elaboração da obra de seu ancestral. Os escritos da família Sun sobre estratégia deram provas de seu valor através dos tempos, e continua merecendo estudos minuciosos. Desvendando inter-relações complexas e às vezes inesperadas entre exércitos que travam uma batalha, eles revelam os princípios permanentes de sucesso na luta da própria vida. O propósito desta edição é oferecer aos leitores uma versão integrada dos extraordinários escritos militares da família Sun - o famoso compêndio analítico da natureza da guerra de Sun Tzu, conhecido como 'A arte da guerra', e a obra recentemente recuperada de uma tumba da dinastia Han atribuída a seu descendente direto Sun Pin, também intitulada 'A arte da guerra', mas, por conveniência, identificada como 'Métodos militares'. Em países asiáticos, tornou-se habitual adotar as táticas abstratas e os princípios conceituais dos escritos militares da família Sun para a vida pessoal, desde as mais simples atividades sociais até o desenvolvimento de carreira e as relações com a sociedade de modo mais amplo. Alguns livros aplicam essas percepções fundamentais até mesmo ao mercado de ações, às relações sexuais e à autodefesa.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>WMF Martins Fontes</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">a6de8007-726b-423a-9d2e-82655026b962</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788578275686</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">26141556</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">hJzY6zFCXXMC</dc:identifier>
+        <dc:language>por</dc:language>
+        <dc:subject>Philosophy</dc:subject>
+        <dc:subject>Eastern</dc:subject>
+        <dc:subject>Biography &amp; Autobiography</dc:subject>
+        <dc:subject>Military</dc:subject>
+        <dc:subject>e a obra recentemente recuperada de uma tumba da dinastia Han atribuída a seu descendente direto Sun Pin</dc:subject>
+        <dc:subject>O propósito desta edição é oferecer aos leitores uma versão integrada dos extraordinários escritos militares da família Sun – o famoso compêndio analítico da natureza da guerra de Sun Tzu</dc:subject>
+        <dc:subject>Métodos militares</dc:subject>
+        <dc:subject>Estratégia militar</dc:subject>
+        <dc:subject>por conveniência</dc:subject>
+        <dc:subject>Sun Pin</dc:subject>
+        <dc:subject>mas</dc:subject>
+        <dc:subject>conhecido como A arte da guerra</dc:subject>
+        <dc:subject>Sun Wu</dc:subject>
+        <dc:subject>poder</dc:subject>
+        <dc:subject>às relações sexuais e à autodefesa.</dc:subject>
+        <dc:subject>também intitulada A arte da guerra</dc:subject>
+        <dc:subject>Ciência militar chinesa</dc:subject>
+        <dc:subject>China</dc:subject>
+        <dc:subject>combate</dc:subject>
+        <dc:subject>desde as mais simples atividades sociais até o desenvolvimento de carreira e as relações com a sociedade de modo mais amplo. Alguns livros aplicam essas percepções fundamentais até mesmo ao mercado de ações</dc:subject>
+        <dc:subject>identificada como Métodos militares. Em países asiáticos</dc:subject>
+        <dc:subject>guerra</dc:subject>
+        <dc:subject>Compêndio histórico</dc:subject>
+        <dc:subject>Guia para mundo moderno</dc:subject>
+        <dc:subject>Clássico chinês</dc:subject>
+        <dc:subject>Mundo dos negócios</dc:subject>
+        <dc:subject>Ofensiva</dc:subject>
+        <dc:subject>Sun Tzu</dc:subject>
+        <dc:subject>tornou-se habitual adotar as táticas abstratas e os princípios conceituais dos escritos militares da família Sun para a vida pessoal</dc:subject>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:50:34.281003+00:00"/>
+        <meta name="calibre:title_sort" content="Arte da Guerra, A"/>
+        <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

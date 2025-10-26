@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">181</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7f109fa8-e1e9-4c70-b350-b35349933db0</dc:identifier>
+        <dc:title>Especialista em pessoas: Soluções bíblicas e inteligentes para lidar com todo tipo de gente</dc:title>
+        <dc:creator opf:file-as="Brunet, Tiago" opf:role="aut">Tiago Brunet</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-02-11T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Algumas pessoas ferem, outras curam. Não desista das pessoas! &lt;/p&gt;
+&lt;p&gt;No mundo ideal as pessoas amam umas às outras, ninguém julga para não ser julgado. &lt;/p&gt;
+&lt;p&gt;A família, nesse lugar, é a que mais preserva os familiares, e aqueles que nos ofendem e perseguem são perdoados sem demora ou ressentimentos. Contudo, no mundo real, as coisas não funcionam assim ainda. &lt;/p&gt;
+&lt;p&gt;Enquanto vivemos esta batalha "ideal" versus "real", precisamos aprender a sobreviver no mundo tal como ele se apresenta diante de nós. É nesse mundo que vivemos agora. &lt;/p&gt;
+&lt;p&gt;Neste mundo real, a inveja é forte, os haters e críticos são profissionais e a fofoca flui em velocidade de internet banda larga. Neste mundo, temos mais desgastes emocionais com pessoas do que alegria com elas. Isso faz sentido pra você? &lt;/p&gt;
+&lt;p&gt;Nossos olhos podem mirar o mundo ideal, ter como meta viver como se ali estivesse; porém é preciso que nossa mente e nosso coração estejam vacinados contra as epidemias emocionais do mundo real que tentam nos infectar. &lt;/p&gt;
+&lt;p&gt;É importante que você entenda que este livro foi escrito para este tempo, a vida que temos no mundo real. &lt;/p&gt;
+&lt;p&gt;O método que já ajudou milhões de pessoas em palestras, em mais de 30 países, em suas mãos! &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Academia</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788542218763</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">RBX6KMIF5IKV2NFRODUKYZ7I2TKKS6DF</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B083G2RCSJ</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">51188315</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">pNLHDwAAQBAJ</dc:identifier>
+        <dc:language>por</dc:language>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Communication &amp; Social Skills</dc:subject>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2025-10-25T15:40:45.086967+00:00"/>
+        <meta name="calibre:title_sort" content="Especialista em pessoas: Soluções bíblicas e inteligentes para lidar com todo tipo de gente"/>
+        <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

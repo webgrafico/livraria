@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">69</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">806c1ecc-625c-4e52-9f69-244d1f8a444d</dc:identifier>
+        <dc:title>Foco: A atenção e seu papel fundamental para o sucesso</dc:title>
+        <dc:creator opf:file-as="Goleman, Daniel" opf:role="aut">Daniel Goleman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-01-01T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Você está prestando atenção?&lt;br&gt;Ou já se distraiu checando seus e-mails, mensagens, Facebook, Twitter etc.?&lt;br&gt;Resistiu ao impulso de deixar sua mente divagar?&lt;br&gt;Se tiver resistido, muito bem, porque quando você está lendo um texto normalmente fica distraído por mais de 40% do tempo. &lt;br&gt;Mas quais são os benefícios de ficar focado por um longo período?&lt;br&gt;Uma palavra: sucesso &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Lista dos mais vendidos da Veja&lt;/strong&gt;&lt;br&gt;Combinando pesquisa de ponta e descobertas práticas, Daniel Goleman mostra por que a base do sucesso em todas as áreas da vida é sua capacidade de ter FOCO. &lt;br&gt;Segundo o autor do best-seller &lt;em&gt;Inteligência emocional&lt;/em&gt; , a atenção funciona de forma muito parecida com um músculo: se não o utilizamos, fica atrofiado; se o exercitamos, se desenvolve e se fortalece. Numa era de distrações intermináveis, Goleman argumenta que precisamos aprender a aprimorar nosso foco se quisermos prosperar no mundo complexo em que vivemos. &lt;br&gt;Aqueles que alcançam rendimento máximo (seja nos estudos, nos negócios, nos esportes ou nas artes) são precisamente os que prestam atenção no que é mais importante para seu desempenho. Foco é uma ferramenta essencial, é o que diferencia um especialista de um amador, um profissional de sucesso do funcionário mediano. &lt;br&gt;&lt;strong&gt;*Foco&lt;/strong&gt; * traz um olhar inovador sobre o segredo para o alto desempenho e a realização e mostra como a atenção tem um papel fundamental para o sucesso.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Objetiva</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788539005246</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">JX9FAgAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">27804406</dc:identifier>
+        <dc:language>por</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Careers</dc:subject>
+        <dc:subject>Psicologia e Comportamento</dc:subject>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:52:09+00:00"/>
+        <meta name="calibre:title_sort" content="Foco: A atenção e seu papel fundamental para o sucesso"/>
+        <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">172</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">888180e5-0825-4227-b2de-22e2940bebd6</dc:identifier>
+        <dc:title>Filho do Fogo - O Descortinar da Alta Magia - Vol. 1</dc:title>
+        <dc:creator opf:file-as="Mastral, Eduardo Daniel" opf:role="aut">Eduardo Daniel Mastral</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-01-01T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Existem pessoas como você e eu, de carne e osso, que adoram ao diabo. Muitos em nosso mundo sofrem influências demoníacas mesmo sem saber. Mas adorar ao príncipe das trevas, pactuar com ele, receber poderes do inferno reserva-se a um grupo organizado, unido e forte, formado por milhares de pessoas que dominam a Alta Magia. E através dela engloba a sociedade preparando-a para a vinda do seu o Anticristo. É sobre isso que este livro fala. Relata a história de alguém que foi recrutado pelo Império das Trevas, fez parte do inferno na Terra e foi Filho do Fogo; contudo, foi resgatado da escuridão e conheceu a Verdade – Jesus, o Cristo! Convidamos você a fazer esta viagem conosco. Mergulhar na mais alta hierarquia do satanismo, conhecer aqueles que têm acesso a essa prática e são colaboradores dos mais tenebrosos príncipes infernais. Esta viagem será como mergulhar nos próprios domínios do inferno para conhecer sua doutrina, suas estratégias e seus segredos! Ao começar a leitura, uma guerra se iniciará. Tome sua armadura, desembainhe sua espada e clame ao Senhor dos Exércitos para que o acompanhe nesta jornada. Edição 1ª edição – Abril/2012 Páginas 467 Formato 14×21 cm Gênero Vida Cristã / Testemunho / Biografia / Satanismo ISBN 978-85-81580-04-3&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editora Naós</dc:publisher>
+        <dc:identifier opf:scheme="GOODREADS">14624725</dc:identifier>
+        <dc:identifier opf:scheme="ASIN">B0DLT9NKGB</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788581580043</dc:identifier>
+        <dc:language>por</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <meta name="calibre:series" content="Filho do fogo"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2025-10-25T15:40:44+00:00"/>
+        <meta name="calibre:title_sort" content="Filho do Fogo - O Descortinar da Alta Magia - Vol. 1"/>
+        <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

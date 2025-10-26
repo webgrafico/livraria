@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">106</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7e1d80a1-3b46-42ad-b096-1e485ddaa6ae</dc:identifier>
+        <dc:title>Aventura no Império do Sol</dc:title>
+        <dc:creator opf:file-as="Franco, Silvia Cintra" opf:role="aut">Silvia Cintra Franco</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1989-01-01T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;O time de vôlei feminino Baleia Azul vai ao Peru para o jogo mais importante de sua história. Precisa vencer o torneio Sul-Americano de qualquer jeito, só assim o patrocinador continuará financiando a equipe. É quase uma questão de vida ou morte. Entretanto, às vésperas da partida decisiva, um novo problema parece querer atrapalhar a vitória do Baleia Azul. O que aconteceu com a melhor jogadora do time? Será que fugiu ou foi sequestrada? Por quê? Como desvendar esse sumiço a tempo do grande jogo? Para saber o que aconteceu, acompanhe essas garotas de muita garra pelas ruínas milenares da fabulosa civilização inca, em um dos países mais misteriosos da América do Sul.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ática</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">8508032250</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">7698878</dc:identifier>
+        <dc:language>por</dc:language>
+        <dc:subject>Young Adult</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Mystery</dc:subject>
+        <meta name="calibre:series" content="Vaga-lume"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="6"/>
+        <meta name="calibre:timestamp" content="2023-05-18T15:18:14+00:00"/>
+        <meta name="calibre:title_sort" content="Aventura no Império do Sol"/>
+        <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

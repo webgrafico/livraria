@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">160</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">38be1349-b2c3-47df-8b4a-be6c4061facc</dc:identifier>
+        <dc:title>Nação de Marte 1: Ficção científica Hard</dc:title>
+        <dc:creator opf:file-as="Morris, Brandon Q." opf:role="aut">Brandon Q. Morris</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-11-29T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;A NASA finalmente obteve êxito. O primeiro ser humano acaba de pisar a superfície do nosso planeta vizinho. É o início de uma longa expedição de pesquisa que enviou quatro cientistas ao espaço. &lt;/p&gt;
+&lt;p&gt;Acontece que os quatro astronautas da tripulação da NASA não são os únicos com este destino. A iniciativa «Marte para Todos», financiada pelo setor privado, também se concentrou no Planeta Vermelho. Vinte homens e mulheres foram selecionados para viverem ali, estabelecendo o primeiro assentamento extraterrestre. &lt;/p&gt;
+&lt;p&gt;Os desafios surgem antes mesmo de chegarem à órbita de Marte. A espaçonave Santa Maria de MpT é danificada no caminho. Apenas os quatro astronautas da NASA podem intervir e tentar salvar as vidas de seus tripulantes. &lt;/p&gt;
+&lt;p&gt;Ninguém é capaz de prever a catástrofe iminente que ameaça a própria existência de todos—para não falar dos obstáculos diários que uma estadia prolongada em um planeta alienígena pode proporcionar a eles. Em Marte, começa uma luta pelos recursos limitados, pela cooperação humana e pela pura sobrevivência. &lt;/p&gt;
+&lt;p&gt;Ficção Científica Hard. Tudo poderia acontecer como descrito.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>HardSF.info</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9798332990915</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">216422805</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">B1sz0QEACAAJ</dc:identifier>
+        <dc:language>por</dc:language>
+        <dc:subject>Science Fiction</dc:subject>
+        <meta name="calibre:series" content="Mars Nation"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2025-10-25T15:40:44+00:00"/>
+        <meta name="calibre:title_sort" content="Nação de Marte 1: Ficção científica Hard"/>
+        <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

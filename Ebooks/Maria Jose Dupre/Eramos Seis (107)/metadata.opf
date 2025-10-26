@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">107</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5ae096c1-3968-4816-92f1-6edf34bd4e24</dc:identifier>
+        <dc:title>Éramos Seis</dc:title>
+        <dc:creator opf:file-as="Dupré, Maria José" opf:role="aut">Maria José Dupré</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1943-01-01T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;A história de Dona Lola e sua família, uma bondosa e batalhadora mulher que faz de tudo pela felicidade do marido, Júlio, e dos quatro filhos: Carlos, Alfredo, Julinho e Maria Isabel. A vida de Dona Lola é narrada desde a infância das crianças, quando Júlio trabalha para pagar as prestações da casa onde moram, passando pela chegada dos filhos à fase adulta e de Dona Lola à velhice. Conforme os anos passam, vão se modificando as coisas na vida de Dona Lola: a morte de Júlio; o sumiço de Alfredo pelo mundo; a união de Isabel com Felício, um homem separado; a ascensão de Julinho, que se casa com uma moça de família rica. O título do livro vem da situação de Dona Lola ao fim da vida, sozinha num asilo: eram seis, agora só resta ela. Também são expostos no livro outras personagens, como os familiares de Lola: na cidade de Itapetininga, interior paulista, moram a mãe, Dona Maria; a tia Candoca; as irmãs Clotilde, solteira, e Olga, casada com Zeca, seu cunhado; na cidade, vive a rica tia Emília, irmã de seu pai; e a filha dela, Justina.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ática</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788508001002</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">3190115</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">MjaCSQAACAAJ</dc:identifier>
+        <dc:language>por</dc:language>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Young Adult</dc:subject>
+        <dc:subject>Childrens</dc:subject>
+        <meta name="calibre:series" content="Vaga-lume"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-05-18T15:18:14+00:00"/>
+        <meta name="calibre:title_sort" content="Éramos Seis"/>
+        <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

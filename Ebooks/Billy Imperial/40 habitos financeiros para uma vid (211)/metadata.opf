@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">211</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">44ba24bd-2f62-464e-a874-7bb4b1b2b861</dc:identifier>
+        <dc:title>40 hábitos financeiros para uma vida melhor: Lições poderosas para quem quer sair das dívidas, poupar com consistência e investir com qualidade</dc:title>
+        <dc:creator opf:file-as="Imperial, Billy" opf:role="aut">Billy Imperial</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-08-22T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Estiloso caminho para controlar as finanças e sentir-se seguro sobre aonde vai o seu dinheiro &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Você:&lt;/strong&gt; Tenta poupar e investir mas não sabe se está fazendo a coisa certa? Não sabe aonde tudo vai a cada mês? Precisa eliminar o hábito de gastar mais do que ganha? Tenta fazer a renda durar o mês todo mas não consegue? &lt;/p&gt;
+&lt;p&gt;A cada dia, cada um de nós tem a chance de fazer um número de decisões que afetam o nosso futuro financeiro. As pequenas atitudes no passado são as responsáveis pela posição que nos encontramos hoje. &lt;/p&gt;
+&lt;p&gt;Saiba que, descontrole financeiro afeta a nossa qualidade de vida, além de ser fonte de tensões nos relacionamentos, podendo trazer depressão, ansiedade e estresse. &lt;/p&gt;
+&lt;p&gt;O que fazer diante disso? &lt;/p&gt;
+&lt;p&gt;A solução você vai encontrar no livro &lt;strong&gt;"40 HÁBITOS FINANCEIROS para uma vida melhor".&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;Você vai encontrar respostas claras para diminuir a distância entre o que deveria ser feito e o que atualmente fazemos com o nosso dinheiro. &lt;/p&gt;
+&lt;p&gt;40 Hábitos Financeiros Para Uma Vida Melhor:Lições poderosas para quem quer sair das dívidas, poupar com consistência e investir com qualidade . &lt;/p&gt;
+&lt;p&gt;Com esse livro você irá aprender: &lt;/p&gt;
+&lt;p&gt;Tomar decisões financeiras com maior tranquilidade e chance de acerto. &lt;br&gt;Soluções práticas para pagar as contas e gerenciar a sua renda &lt;strong&gt;(planilha para download)&lt;/strong&gt;. &lt;br&gt;Identificar os bons hábitos para compras e gastos. &lt;br&gt;Qual dívida pagar primeiro. &lt;br&gt;Estratégias para aumentar a sua renda. &lt;/p&gt;
+&lt;p&gt;Vamos explorar os hábitos financeiros ,identificar as áreas problemáticas, pensar sobre poupança, investimentos e fazer metas alcançáveis para sua vida e muito mais. &lt;/p&gt;
+&lt;p&gt;Além disso, olharemos para formas concretas de colocar alguns desses princípios em ação, utilizando de recursos que irão mantê-lo focado e motivado. &lt;/p&gt;
+&lt;p&gt;Você gostaria de saber mais? &lt;/p&gt;
+&lt;p&gt;Compre agora e dê o primeiro passo para uma virada financeira na sua vida. &lt;/p&gt;
+&lt;p&gt;Tags/palavras-chave: &lt;br&gt;Educação financeira, poupança, finanças pessoais, dívidas, hábitos de consumo, investimentos, tesouro direto, investir, onde investir, estilo de vida, dinheiro, renda, riqueza, investimentos, liberdade financeira, felicidade, abundância, investidor iniciante, hábitos. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">B01KUGX18Q</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">32938907</dc:identifier>
+        <dc:language>por</dc:language>
+        <meta name="calibre:rating" content="6"/>
+        <meta name="calibre:timestamp" content="2025-10-26T16:46:22.508584+00:00"/>
+        <meta name="calibre:title_sort" content="40 hábitos financeiros para uma vida melhor: Lições poderosas para quem quer sair das dívidas, poupar com consistência e investir com qualidade"/>
+        <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">81</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">94f38b94-acc3-4064-8ae4-41c1f4be6ec9</dc:identifier>
+        <dc:title>Cem Noites Tapuias</dc:title>
+        <dc:creator opf:file-as="Fontes, Ofélia &amp; Fontes, Narbal" opf:role="aut">Ofélia Fontes</dc:creator>
+        <dc:creator opf:file-as="Fontes, Ofélia &amp; Fontes, Narbal" opf:role="aut">Narbal Fontes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1975-01-01T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;É uma narrativa que aborda o conflito entre garimpeiros e índios, no Mato Grosso. Quincas Venâncio é o pai de Quinquim que, junto com a professora, uma “bugra”, foi raptada pelos índios xavantes. A narrativa do rapto e do resgate dos dois se apresenta paralela a uma série de histórias contadas por Joana, a bugra-professora, para tentar amenizar o sofrimento da criança. São mitos e lendas indígenas, em que as lições de comportamento tornam-se exemplares. Durante as cem noites em que passam presos, são contadas histórias pertencentes ao folclore brasileiro, incluindo o mito do saci, explorado anteriormente por Lobato, e aventuras de animais típicos da fauna brasileira, como a anta. São também incluídas nas histórias trechos de cantigas e quadrinhas típicas do folclore nacional, fato enriquecedor da narrativa, que além da história de Quinquim traz ao leitor o conhecimento de elementos de sua cultura, sob a forma agradável da literatura de entretenimento&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editora Ática</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">8508000960</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">cb04c072-0927-4c3e-8e79-e1416dcce991</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">7266137</dc:identifier>
+        <dc:language>por</dc:language>
+        <meta name="calibre:series" content="Vaga-lume"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="6"/>
+        <meta name="calibre:timestamp" content="2023-05-18T15:15:30+00:00"/>
+        <meta name="calibre:title_sort" content="Cem Noites Tapuias"/>
+        <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

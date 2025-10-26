@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0580ee6a-4e7c-44c7-8c59-6abb557e25f3</dc:identifier>
+        <dc:title>Elon Musk: Como o CEO bilionário da SpaceX e da Tesla está moldando nosso futuro</dc:title>
+        <dc:creator opf:file-as="Vance, Ashlee" opf:role="aut">Ashlee Vance</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-09-21T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Elon Musk é o empreendedor mais ousado de nosso tempo. Uma mistura de Thomas Edison, Henry Ford, Howard Hughes e Steve Jobs, ele é o homem por trás dos cobiçados esportivos elétricos da Tesla Motors, dos painéis e baterias de energia solar popularizados pela SolarCity e dos foguetes espaciais da SpaceX, construídos do zero com recursos privados e muito mais baratos que qualquer versão já lançada pelas agências governamentais. &lt;/p&gt;
+&lt;p&gt;Entre as próximas metas de Musk está a colonização de Marte.Nesse livro, o experiente jornalista de tecnologia Ashlee Vance apresenta um olhar inédito sobre a vida e as realizações inacreditáveis do homem mais audacioso do Vale do Silício. Fundamentado em mais de cinquenta horas de conversas com Musk e entrevistas com mais de trezentas pessoas ligadas a ele, Vance investiga em detalhes a trajetória muitas vezes instável e controversa das empresas de Musk e traça um retrato impressionante do personagem complexo que renovou a indústria com uma série de inovações de enorme impacto político e econômico, num vislumbre do que pode vir a ser o futuro encabeçado pelo progresso de seus negócios visionários.&lt;/p&gt;
+&lt;p&gt;Em uma época como a atual, em que a maioria das empresas prefere o lucro fácil ao risco de desenvolver tecnologias radicalmente novas, Musk se destaca como o único empresário com dinamismo e visão suficientes para comandar — e revolucionar — três indústrias ao mesmo tempo. Se ele é simplesmente um lunático ou a mente mais brilhante a ter posto os pés neste planeta, só o tempo dirá, mas sua biografia, hoje, já é parte relevante da história.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editora Intrinseca</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">03iFCgAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788580578300</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">87681263-a800-42b4-8f1e-ddc4b5679b4a</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">30205108</dc:identifier>
+        <dc:language>por</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:timestamp" content="2022-07-27T15:24:20+00:00"/>
+        <meta name="calibre:title_sort" content="Elon Musk: Como o CEO bilionário da SpaceX e da Tesla está moldando nosso futuro"/>
+        <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

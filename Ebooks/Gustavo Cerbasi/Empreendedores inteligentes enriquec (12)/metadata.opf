@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">68550774-113a-4ad0-8c5a-5843d5cf1332</dc:identifier>
+        <dc:title>Empreendedores inteligentes enriquecem mais: Inteligência financeira para quem já tem ou quer começar o próprio negócio</dc:title>
+        <dc:creator opf:file-as="Cerbasi, Gustavo" opf:role="aut">Gustavo Cerbasi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-09-20T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Em épocas de crise econômica e desemprego em alta, cresce o número de pessoas que resolvem abrir a própria empresa. Em geral, esses empreendedores concentram todos os esforços no desenvolvimento de produtos ou serviços, sem se preocupar muito com um plano de negócios ou a parte financeira.Duas situações costumam acontecer: ou o empreendedor ainda não tem condições de contratar especialistas para cuidar dos números e tenta gerenciá-los com seus conhecimentos básicos, ou então delega a tarefa e não quer mais saber do assunto. &lt;/p&gt;
+&lt;p&gt;Em ambos os casos, ele fica "no escuro", pois abre mão de uma parte importante da gestão.Este livro reúne o conhecimento de que todo mundo precisa para entender as finanças do próprio negócio. Gustavo Cerbasi explica, em uma linguagem simples, os principais conceitos e termos técnicos dessa área, oferece dicas para assumir o controle financeiro e estratégias para o crescimento sustentável.Entre os tópicos abordados em Empreendedores inteligentes enriquecem mais estão:&lt;/p&gt;
+&lt;p&gt;• Empreender como forma de investimento&lt;br&gt;• Como separar a pessoa física da jurídica mesmo quando as contas se misturam&lt;br&gt;• As finanças de um plano de negócios&lt;br&gt;• Como aproveitar melhor o serviço de seu contador&lt;br&gt;• O perigo de fazer empréstimos em vez de financiamentos&lt;br&gt;• Como interpretar a situação da empresa por meio dos números&lt;br&gt;• Os principais indicadores financeiros: rentabilidade, atividade, liquidez&lt;br&gt;• Como quantificar o ponto de equilíbrio da empresa&lt;/p&gt;
+&lt;p&gt;Ao final da leitura, você saberá mapear a situação financeira da sua empresa utilizando o conjunto de ferramentas contábeis e de análise descrito ao longo dos capítulos. Isso servirá como um guia para a tomada de decisões. Quanto mais simples e eficaz for seu modelo de gestão, menos tempo será dedicado ao controle financeiro e mais tempo sobrará para o que realmente importa: vender, aprimorar-se e prosperar.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Sextante</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788543104133</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">N6H0DAAAQBAJ</dc:identifier>
+        <dc:language>por</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Entrepreneurship</dc:subject>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Personal Growth</dc:subject>
+        <dc:subject>Success</dc:subject>
+        <dc:subject>Personal Finance</dc:subject>
+        <dc:subject>Investing</dc:subject>
+        <meta name="calibre:timestamp" content="2022-07-27T15:24:41+00:00"/>
+        <meta name="calibre:title_sort" content="Empreendedores inteligentes enriquecem mais: Inteligência financeira para quem já tem ou quer começar o próprio negócio"/>
+        <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

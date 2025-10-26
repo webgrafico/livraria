@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">160488ec-270d-483e-95b9-cffb1c29ad8f</dc:identifier>
+        <dc:title>O Milagre Da Manhã Para Se Tornar Um Milionário: Os Segredos Das Pessoas Bem-Sucedidas Que Vão Ajudar Você a Enriquecer</dc:title>
+        <dc:creator opf:file-as="Elrod, Hal &amp; Osborn, John &amp; Corder, Honoree" opf:role="aut">Hal Elrod</dc:creator>
+        <dc:creator opf:file-as="Elrod, Hal &amp; Osborn, John &amp; Corder, Honoree" opf:role="aut">John Osborn</dc:creator>
+        <dc:creator opf:file-as="Elrod, Hal &amp; Osborn, John &amp; Corder, Honoree" opf:role="aut">Honoree Corder</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-04-01T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Novo livro do autor do best-seller &lt;em&gt;O milagre da manhã&lt;/em&gt; que já vendeu mais de 300 mil exemplares no Brasil.&lt;/p&gt;
+&lt;p&gt;Os milionários sabem que tudo o que acontece no presente é resultado do que foi feito no passado, e que o controle do presente está nas nossas mãos. Neste revolucionário manual para o sucesso, você descobrirá a conexão inegável entre as manhãs e a riqueza, como o sucesso financeiro não pode ser uma busca sedentária e quais escolhas você precisa fazer para alcançá-lo.&lt;/p&gt;
+&lt;p&gt;Esse é o verdadeiro valor das manhãs: nesse período de tranquilidade, quando o mundo está adormecido, e você está no controle — é quando você nutre a galinha dos ovos de ouro e descobre o incrível potencial de cada novo dia.&lt;/p&gt;
+&lt;p&gt;"De todos os investimentos que existem, de imóveis e seguros resgatáveis em vida à bolsa de valores e startups, o melhor investimento é sempre em você. E a ferramenta para fazer isso aparece todos os dias ao nascer do sol, sem falta."&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Best Seller</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">BBG0EJDZHF</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B07PVQL8MF</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">45277908</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788546501854</dc:identifier>
+        <dc:language>por</dc:language>
+        <dc:subject>Business</dc:subject>
+        <dc:subject>Self Help</dc:subject>
+        <dc:subject>Health</dc:subject>
+        <dc:subject>1. Sucesso – Aspectos psicológicos. 2. Habilidades de vida. 3. Autorrealização.4. Finanças pessoais.</dc:subject>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2022-07-28T17:52:53+00:00"/>
+        <meta name="calibre:title_sort" content="O Milagre Da Manhã Para Se Tornar Um Milionário: Os Segredos Das Pessoas Bem-Sucedidas Que Vão Ajudar Você a Enriquecer"/>
+        <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

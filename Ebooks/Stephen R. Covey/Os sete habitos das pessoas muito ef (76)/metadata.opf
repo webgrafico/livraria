@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">76</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6c39e9f5-8cc2-4d2b-ae7c-d61c65580ee3</dc:identifier>
+        <dc:title>Os sete hábitos das pessoas muito eficazes</dc:title>
+        <dc:creator opf:file-as="Covey, Stephen R." opf:role="aut">Stephen R. Covey</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1989-05-15T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Quando Stephen Covey lançou pela primeira vez Os Sete Hábitos das Pessoas Altamente Eficazes, o livro se tornou uma febre instantânea porque as pessoas de repente se levantaram e perceberam que suas vidas estavam indo na direção errada; e mais do que isso, eles perceberam que havia tantas coisas simples que poderiam fazer para navegar corretamente em suas vidas. Este livro foi uma educação maravilhosa para as pessoas, uma educação sobre como viver a vida de maneira eficaz e se aproximar do ideal de ser um 'sucesso' na vida.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Mas nem todo mundo entende bem o modelo de Stephen Covey, ou talvez haja algumas pessoas que ainda não o leram. Isso é definitivamente verdade porque ainda vemos muito fracasso ao nosso redor. Agora, não estou dizendo que usando o modelo de Covey, ou o modelo de qualquer outra pessoa, você pode se tornar um sucesso garantido, mas pelo menos deveríamos ter visto muito mais sucessos ao nosso redor, a julgar pelo número de cópias do livro. vendeu! Então, onde está a deficiência?&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Existem dois problemas principais aqui, e estamos falando apenas das pessoas que já leram o livro. O primeiro problema é que a maioria das pessoas tem preguiça de implementar os ideais de Stephen Covey em suas vidas. Eles consideram sua obra-prima um livro como um mero livro de mesa de centro ou um livro que você usa para leitura leve quando está viajando e depois esquece tudo sobre ele. Eles não percebem que este livro contém informações que mudam vidas. Ou, eles pegam a informação e não se esforçam para realmente utilizá-la para que se torne conhecimento para eles.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;O segundo problema é que muitas pessoas têm uma visão míope dos ideais de Covey. São pessoas que já estão impressionadas com o livro. Se você perguntar a eles quais são os sete hábitos, eles podem repeti-los de ponta a ponta, mas perderão o quadro geral. Eles não entendem que Covey estava tentando contar mais do que escreveu em palavras. Existem implicações ocultas neste livro, sim, e muitas pessoas simplesmente falharam em ver através delas.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Isso é o que estamos tentando fazer. Estamos tentando mostrar a você como o livro de Covey, ou melhor, seu modelo, era um modelo completo em si mesmo. Não havia nada de errado nisso. Se você implementá-lo, não deve haver nenhum aspecto de sua vida que deva ficar intocado. A única coisa é que você deve entender esses ideais e tentar implementá-los em sua vida.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Mas, antes de entrarmos nessa área, é extremamente importante entender quais são esses ideais. Qual foi o modelo proposto por Stephen Covey em seu megafamoso livro? Vamos começar tentando entender seu modelo primeiro, e então interpretá-lo de tal forma que se refira a todos os aspectos de nossa vida.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Best Seller</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788571232242</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">Cn39tgAACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">15767264</dc:identifier>
+        <dc:language>por</dc:language>
+        <meta name="calibre:timestamp" content="2023-05-18T15:03:00.320489+00:00"/>
+        <meta name="calibre:title_sort" content="Os sete hábitos das pessoas muito eficazes"/>
+        <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

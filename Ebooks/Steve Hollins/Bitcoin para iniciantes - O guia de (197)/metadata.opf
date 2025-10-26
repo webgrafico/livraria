@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">197</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3a07e92a-f467-447b-a60c-5ca82cca3c09</dc:identifier>
+        <dc:title>Bitcoin para iniciantes - O guia definitivo para aprender a usar bitcoin e criptomoedas. Crie uma carteira, compre bitcoin, aprenda o que é o blockchain e a mineração de bitcoin</dc:title>
+        <dc:creator opf:file-as="Hollins, Steve" opf:role="aut">Steve Hollins</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-03-26T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;O guia definitivo para você aprender a usar bitcoin e criptomoedas Se você escolheu este livro, é provável que já tenha ouvido falar sobre Bitcoin. Talvez você já ouviu falar sobre Bitcoin em círculos financeiros, uma vez que seu valor tem aumentado rapidamente, ou talvez tenha ouvido falar sobre sua existência em um contexto tecnológico, uma vez que o Bitcoin é baseado em uma tecnologia nova e revolucionária, chamada Blockchain, ou, como muitos, é possível que você tenha ouvido falar de Bitcoin na imprensa, devido à quantidade de novos usuários, celebridades e empresários que começaram a usá-lo recentemente. &lt;/p&gt;
+&lt;p&gt;Nos últimos anos, o bitcoin deixou de ser algo que apenas alguns nerds tecnológicos conhecem para se tornar uma moeda revolucionária que mudou completamente nosso conceito ou maneira de pensar sobre o dinheiro. &lt;/p&gt;
+&lt;p&gt;Se você nunca ouviu falar de Bitcoin ou se só tem uma vaga ideia de como funciona esta nova tecnologia, este livro é para você e nas páginas seguintes eu o guiarei através das informações básicas sobre o funcionamento deste novo tipo de dinheiro. Ajudei muita gente a começar a usar Bitcoin, então eu sei que é confuso para os iniciantes e conheço as principais dúvidas que você terá. &lt;/p&gt;
+&lt;p&gt;Francamente, confesso que quando comecei a estudar sobre o assunto eu estava muito cético em relação a criptomoedas, uma vez que muitas pessoas me assustaram ao dizer que criptomoedas eram dinheiro falso, uma pirâmide financeira, ou algo semelhante, mas posso dizer que estas são crenças equivocadas. Alguns países, inclusive, já reconheceram as criptomoedas como um meio de pagamento. Hoje, este chamado “entretenimento para geeks” se converteu em um negócio muito rentável para banqueiros de investimento e várias corporações. &lt;/p&gt;
+&lt;p&gt;Portanto, se você não estiver usando criptomoedas, é por causa, provavelmente, das crenças negativas que tem a este respeito. Vamos dar uma olhada em &lt;/p&gt;
+&lt;p&gt;É muito arriscado, e se eu investir em criptomoedas e elas forem proibidas em todo o mundo? Eu não tenho educação financeira, então não saberia o que fazer. O amigo de um amigo comprou criptomoedas e perdeu tudo. O tema criptomoedas é muito novo e difícil de compreender, por isso é melhor esperar alguns anos, para que tudo fique mais claro. Todas estas declarações são meras desculpas para sua falta de ação, e enquanto espera, há cada vez mais pessoas fazendo parte dessa revolução. Deixe-me esclarecer que neste livro nós trataremos todos os princípios básicos e você não precisa de nenhum conhecimento especial para compreender os conceitos que vou ensinar. &lt;/p&gt;
+&lt;p&gt;Este livro se destina a iniciantes que querem aprender como começar a usar Bitcoin e outras criptomoedas, e eu vou ensinar tudo o que você precisa saber para se sentir seguro neste novo ecossistema, mas se você estiver procurando por dicas de investimento ou informações privilegiadas sobre quais as moedas mais bem-sucedidas, não vai encontrar essas informações neste livro.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>UNKNOWN</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07BQYW7Z2</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">39706125</dc:identifier>
+        <dc:language>por</dc:language>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2025-10-26T16:46:17.424620+00:00"/>
+        <meta name="calibre:title_sort" content="Bitcoin para iniciantes - O guia definitivo para aprender a usar bitcoin e criptomoedas. Crie uma carteira, compre bitcoin, aprenda o que é o blockchain e a mineração de bitcoin"/>
+        <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

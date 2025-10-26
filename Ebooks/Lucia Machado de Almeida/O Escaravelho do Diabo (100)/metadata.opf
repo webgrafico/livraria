@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">100</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ffedc1d8-8d3e-4b41-a640-7cf4500ffbcc</dc:identifier>
+        <dc:title>O Escaravelho do Diabo</dc:title>
+        <dc:creator opf:file-as="Almeida, Lúcia Machado de &amp; Cafiero, Mário" opf:role="aut">Lúcia Machado de Almeida</dc:creator>
+        <dc:creator opf:file-as="Almeida, Lúcia Machado de &amp; Cafiero, Mário" opf:role="aut">Mário Cafiero</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1953-10-10T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;em&gt;You can find alternative covers for this ISBN&lt;/em&gt;&lt;a href="https://www.goodreads.com/book/show/26822106-o-escaravelho-do-diabo"&gt;&lt;em style="color: #6cb4ee"&gt;here&lt;/em&gt;&lt;/a&gt;&lt;em&gt; and &lt;/em&gt;&lt;a href="https://www.goodreads.com/book/show/18658352-o-escaravelho-do-diabo"&gt;&lt;em style="color: #6cb4ee"&gt;here&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.&lt;/em&gt; &lt;/p&gt;
+&lt;p&gt;Se você é ruivo e recebeu um escaravelho, cuidado! É a alerta que Alberto, aluno da Faculdade de Medicina, dá aos habitantes de Vista Alegre, depois da morte de Hugo. Com esse crime teve início uma terrível série de assassinatos. &lt;/p&gt;
+&lt;p&gt;Mas o que não falta na cidade são cabelos vermelhos: Clarence, Maria Fernanda, padre Afonso, quem pode ser a próxima vítima? E qual a relação entre ruivos e escaravelhos? O que poderia estar por trás de tudo aquilo? É o que o estudante precisa descobrir antes que aconteça novo crime... &lt;/p&gt;
+&lt;p&gt;Acompanhe os passos de Alberto. Descubra você também o segredo do escaravelho do diabo. &lt;/p&gt;
+&lt;p&gt;Originalmente publicado em folhetim na revista "O Cruzeiro", entre outubro e dezembro de 1953. A primeira edição em livro saiu em 1955 também pelo "O Cruzeiro". Obteve grande sucesso quando lançado na Série Vaga-Lume em 1974. &lt;/p&gt;
+&lt;p&gt;O projeto gráfico da Série Vaga-Lume sofreu várias reformulações ao longo dos anos. Abaixo estão listadas as capas que &lt;strong&gt;O Escaravelho do Diabo&lt;/strong&gt; já possuiu na coleção. &lt;/p&gt;
+&lt;p&gt;Capas: &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.goodreads.com/book/show/26822026-o-escaravelho-do-diabo"&gt;&lt;span style="color: #6cb4ee"&gt;1974-1981&lt;/span&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.goodreads.com/book/show/26822106-o-escaravelho-do-diabo"&gt;&lt;span style="color: #6cb4ee"&gt;1982-1992&lt;/span&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.goodreads.com/book/show/18658352-o-escaravelho-do-diabo"&gt;&lt;span style="color: #6cb4ee"&gt;1993-1998&lt;/span&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.goodreads.com/book/show/6163301-o-escaravelho-do-diabo"&gt;&lt;span style="color: #6cb4ee"&gt;1999-2010&lt;/span&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.goodreads.com/book/show/26822132-o-escaravelho-do-diabo"&gt;&lt;span style="color: #6cb4ee"&gt;2011-2014&lt;/span&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.goodreads.com/book/show/26822125-o-escaravelho-do-diabo"&gt;&lt;span style="color: #6cb4ee"&gt;2015&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editora Ática</dc:publisher>
+        <dc:identifier opf:scheme="GOODREADS">6163301</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788508001033</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">8508001037</dc:identifier>
+        <dc:language>por</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Young Adult</dc:subject>
+        <dc:subject>Childrens</dc:subject>
+        <dc:subject>Crime</dc:subject>
+        <dc:subject>Thriller</dc:subject>
+        <dc:subject>Suspense</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <meta name="calibre:series" content="Vaga-lume"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-05-18T15:17:18+00:00"/>
+        <meta name="calibre:title_sort" content="Escaravelho do Diabo, O"/>
+        <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

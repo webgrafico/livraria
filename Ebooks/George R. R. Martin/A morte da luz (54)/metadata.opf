@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">54</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8aa1448b-4bf4-478a-ad69-bf5feb480c56</dc:identifier>
+        <dc:title>A morte da luz</dc:title>
+        <dc:creator opf:file-as="Martin, George R. R." opf:role="aut">George R. R. Martin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-10-01T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Primeiro livro escrito por George R. R. Martin, autor da renomada série As crônicas de gelo e fogo e premiado com os principais prêmios do mundo de fantasia e ficção científica. Desde essa primeira história o autor já mostra o que o tornaria mundialmente famoso, seus personagens que não são nem vilões, nem heróis, mas seres complexos como todos nós. Worlorn não é o planeta que Dirk t ́Larien imaginava, e Gwen Delvano não é mais a mulher que conhecera. Ela está ligada a outro homem e a esse planeta moribundo preso no crepúsculo, seguindo em direção à noite sem fim. Em meio à paisagem desoladora, há um violento choque de culturas, no qual não há códigos ou honra e uma batalha se espalhará rapidamente. &lt;/p&gt;
+&lt;p&gt;Sobre o autor: &lt;/p&gt;
+&lt;p&gt;George R.R. Martin trabalhou dez anos em Hollywood como escritor e produtor de diversas séries e filmes de grande sucesso. Autor de diversos best-sellers nos EUA e na Europa, foi em meados dos anos 1990 que Martin deu início a sua mais importante obra: As crônicas de gelo e fogo, a saga de fantasia mais vendida dos últimos anos, vencedora de diversos prêmios, que ganhou a premiada adaptaçãoGame of Thrones pela HBO e também chegou aos quadrinhos.–&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Leya</dc:publisher>
+        <dc:identifier opf:scheme="GOODREADS">16049129</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788544103265</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">VyLhCgAAQBAJ</dc:identifier>
+        <dc:language>por</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Action &amp; Adventure</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:timestamp" content="2023-05-18T13:45:49+00:00"/>
+        <meta name="calibre:title_sort" content="morte da luz, A"/>
+        <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

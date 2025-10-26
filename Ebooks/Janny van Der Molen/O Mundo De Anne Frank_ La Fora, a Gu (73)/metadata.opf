@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">73</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a210290c-2bce-467a-8b48-460f905283c1</dc:identifier>
+        <dc:title>O Mundo De Anne Frank: Lá Fora, a Guerra</dc:title>
+        <dc:creator opf:file-as="Molen, Janny van Der &amp; Vries, Alexandra de" opf:role="aut">Janny van Der Molen</dc:creator>
+        <dc:creator opf:file-as="Molen, Janny van Der &amp; Vries, Alexandra de" opf:role="aut">Alexandra de Vries</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-01-01T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Se o diário em que a jovem Anne Frank relata os dias vividos num esconderijo em Amsterdã com a família durante a Segunda Guerra Mundial dispensa maiores apresentações, o lançamento &lt;em&gt;O mundo de Anne Frank&lt;/em&gt; , de Janny van der Molen, merece ser conhecido pelo leitor brasileiro. O título, que chega às livrarias em meio aos 70 anos do fim do conflito e da morte da jovem, é resultado de extensa pesquisa, feita com o apoio da Fundação Anne Frank, e recria a história da jovem judia de forma acessível para todas as idades, (re)contando a história de Anne Frank com sensibilidade, a partir de seu famoso diário e de informações históricas, fotografias e belas ilustrações.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Rocco Digital</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788581225708</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B011PVOHLU</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">36511799</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">iHYqCgAAQBAJ</dc:identifier>
+        <dc:language>por</dc:language>
+        <dc:subject>Juvenile Fiction</dc:subject>
+        <dc:subject>Historical</dc:subject>
+        <dc:subject>Holocaust</dc:subject>
+        <dc:subject>Biographical</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:58:00.989930+00:00"/>
+        <meta name="calibre:title_sort" content="Mundo De Anne Frank: Lá Fora, a Guerra, O"/>
+        <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

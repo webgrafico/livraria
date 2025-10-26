@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d7705323-de63-4e34-90a9-8968732ac337</dc:identifier>
+        <dc:title>Hábitos Atômicos: Um Método Fácil E Comprovado De Criar Bons Hábitos E Se Livrar Dos Maus.</dc:title>
+        <dc:creator opf:file-as="Clear, James" opf:role="aut">James Clear</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-10-16T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;BEST-SELLER DO NEW YORK TIMES &lt;/p&gt;
+&lt;p&gt;Pequenas Mudanças, Resultados Impressionantes. &lt;/p&gt;
+&lt;p&gt;Não importa quais sejam seus objetivos, Hábitos Atômicos oferece um método eficaz para você se aprimorar — todos os dias. James Clear, um dos mais expoentes especialistas na criação de hábitos, revela as estratégicas práticas que o ensinarão, exatamente, como criar bons hábitos, abandonar os maus e fazer pequenas mudanças de comportamento que levam a resultados impressionantes. &lt;/p&gt;
+&lt;p&gt;Se enfrenta dificuldades para mudar seus hábitos, o problema não é você, é o sistema escolhido. &lt;br&gt;Os maus hábitos se repetem sem parar porque você está usando o sistema errado, e não porque não queira mudar. &lt;br&gt;Assim, suas limitações não são a complexidade de seu objetivo, mas a inadequação de seus sistemas. &lt;br&gt;Neste livro, você aprenderá um método comprovado capaz de levá-lo a novos patamares. &lt;/p&gt;
+&lt;p&gt;Clear é conhecido por sua habilidade em transformar tópicos complexos em comportamentos simples que podem ser facilmente aplicados à vida cotidiana e profissional. Seu método, desenvolvido a partir de conceitos comprovados da biologia, psicologia e neurociência, é um guia descomplicado para tornar os bons hábitos inevitáveis e os maus, impossíveis. &lt;br&gt;Ao longo desta jornada, os leitores serão inspirados e entretidos por histórias de medalhistas de ouro em Olimpíadas, artistas premiados, líderes de negócios, médicos &lt;br&gt;que salvam vidas e astros da comédia que usaram a ciência dos pequenos hábitos para dominar seu ofício e se lançar ao topo de suas áreas de atuação. &lt;/p&gt;
+&lt;p&gt;Hábitos Atômicos remodela sua forma de pensar em avanço e sucesso e traz as ferramentas e estratégias de que precisa para transformar seus hábitos — seja você técnico de um time almejando a conquista de um título, uma organização com pretensões de reinventar seu setor ou simplesmente um indivíduo que deseja parar de &lt;br&gt;fumar, perder peso, reduzir o estresse ou atingir qualquer outra meta. &lt;/p&gt;
+&lt;p&gt;Descubra o Segredo dos Resultados Permanentes &lt;/p&gt;
+&lt;p&gt;Repleto de estratégias testadas e aprovadas de &lt;br&gt;autoaprimoramento, Hábitos Atômicos ensinará você a construir &lt;br&gt;hábitos que funcionem para — e não contra — você.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Alta Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788550807577</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">qI6iDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">52729567</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B07V8LHWZ5</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">BBQ5U58Z1P</dc:identifier>
+        <dc:language>por</dc:language>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Personal Growth</dc:subject>
+        <dc:subject>Success</dc:subject>
+        <dc:subject>1. Autoajuda. 2. Transformação pessoal. 3 Hábitos. I. Título</dc:subject>
+        <dc:subject>Sample Book</dc:subject>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2022-07-27T15:44:19+00:00"/>
+        <meta name="calibre:title_sort" content="Hábitos Atômicos: Um Método Fácil E Comprovado De Criar Bons Hábitos E Se Livrar Dos Maus."/>
+        <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

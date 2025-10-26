@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">210</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">90088687-7483-475d-9f54-551d5a3a8332</dc:identifier>
+        <dc:title>Cybersex</dc:title>
+        <dc:creator opf:file-as="Vianna, Sérgio B." opf:role="aut">Sérgio B. Vianna</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-04-21T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Em Cybersex, o livro é dividido em seis histórias passadas no mesmo período, e uma prequela, onde cada atitude de seu protagonista altera o rumo ou causa danos nas estórias dos outros personagens. Onde todas as histórias estão ligadas. E em algum momento irão se cruzar.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;O livro é passado no ano de 2248. Na primeira história temos Tony, um homem solitário que decide explorar mais de sua própria sexualidade caindo em um mundo completamente diferente do seu.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Depois temos Sand, um policial corrupto e machista que fica vidrado sobre a possibilidade de transar com uma mulher androide.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Cod é um hacker homossexual que ficou longe demais dos amigos e do antigo trabalho, e ao descobrir que sua amiga transexual está decidida a ter um filho usando um útero artificial, que custa um alto valor, ele decide voltar ao antigo mundo que lhe custou tanto no passado.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Eiko se encontra perdida após ser usada para testes do governo, ela então busca por respostas sobre sua família, enquanto continua sendo caçada.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Amber é uma androide que trabalha como dançarina em um clube para homens, sendo um modelo antigo, ela precisa lidar com o fato que o seu tempo está acabando, enquanto suas amigas estão sendo desligadas, e ao mesmo tempo lidar com os homens que enxergam seu corpo como objeto.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;E a última história é focado em Júlia, uma jovem que luta ao lado de rebeldes, fazendo de tudo para derrubar o governo totalitário em que vivem.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;*O livro foi aceito em 11 editoras, tendo sido muito elogiado por elas. Mas por seu tamanho, todas quiseram dividir o livro em duas ou três partes. Sem falar no alto valor de publicação. Por isso, apostei numa forma mais acessível aos leitores.*&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;"Penso que a obra possa chamar a atenção do público especializado, e possa pensar concursos e premiações, depois de publicada. As ações estão ótimas e as divisões dos textos também. Os atos compõem bem os capítulos internos, a sua obra está muito imagética." - Editora Giostri.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;"Seu livro foi avaliado e muito bem recomendado pela nossa beta." - Grupo Editorial Coerência.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">B09YMXCH24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN-13">978-6500702743</dc:identifier>
+        <dc:identifier opf:scheme="ASIN">B09YMXCH24</dc:identifier>
+        <dc:language>por</dc:language>
+        <meta name="calibre:timestamp" content="2025-10-26T16:46:21.990997+00:00"/>
+        <meta name="calibre:title_sort" content="Cybersex"/>
+        <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

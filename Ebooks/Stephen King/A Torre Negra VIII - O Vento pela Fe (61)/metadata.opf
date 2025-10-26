@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">61</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">69eaa30b-1714-4964-8cf8-28b2207cf2ae</dc:identifier>
+        <dc:title>A Torre Negra VIII - O Vento pela Fechadura - Stephen King</dc:title>
+        <dc:creator opf:file-as="Stephen King" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-04-30T03:00:00+00:00</dc:date>
+        <dc:description>Em “O vento pela fechadura”, Stephen King retorna ao Mundo Médio, cenário da “A Torre Negra”. O novo livro encaixa mais uma peça no vasto quebra- cabeças que cerca a saga, oferecendo lendas e histórias fantásticas de Gilead, ao mesmo tempo em que investiga o passado doloroso do pistoleiro Roland Deschain. No meio do caminho entre o Palácio Verde e Calla, o pistoleiro Roland Deschain e seu ka-tet — Jake, Susannah, Eddie e Oi, o trapalhão — são obrigados a acampar numa cidade fantasma. Caso contrário, seriam congelados com a chegada súbita e mortal de uma borrasca, tempestade única ao Mundo Médio. Para afastar o tédio da espera, Roland distrai o grupo com uma história de seu passado. Porém, no centro dessa lembrança, o jovem Roland, do passado, também narra uma fábula de sua infância, registrada em seu livro favorito: “O vento pela fechadura”. A lenda do menino Tim e suas aventuras em busca do mago Merlyn acabam revelando muitas verdades sobre Gilead, o Mundo Médio e o Pistoleiro.</dc:description>
+        <dc:identifier opf:scheme="ISBN">9788581051581</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">17881003</dc:identifier>
+        <dc:language>por</dc:language>
+        <meta name="calibre:timestamp" content="2023-05-18T13:57:48.562956+00:00"/>
+        <meta name="calibre:title_sort" content="Garoto no Convés, O"/>
+        <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

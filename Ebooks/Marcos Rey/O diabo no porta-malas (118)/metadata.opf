@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">118</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">255d5b7e-bf0d-40ec-93cc-9ca1e9aaae14</dc:identifier>
+        <dc:title>O diabo no porta-malas</dc:title>
+        <dc:creator opf:file-as="Rey, Marcos" opf:role="aut">Marcos Rey</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1995-01-01T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Com a publicação de O Diabo no Porta-malas, em 1995, Marcos Rey recebeu o prêmio Intelectual do Ano. Neste livro, o autor mostra mais uma vez ser um criador hábil de excelentes enredos. Miro é condenado injustamente a vinte anos de prisão por matar seu sócio, Ricardo Canaviera. O corpo esfaqueado e fantasiado de diabo foi colocado no porta-malas de seu carro. Seu filho Mário, um rapaz de dezoito anos, promete descobrir o verdadeiro assassino. Ajudado por Nádia, namorada do pai, envolve-se em uma intensa e arriscada investigação. Mário não dormiu mais que uma hora naquela noite. As poucas frases lembradas corroeram-lhe o sono como ratos. Ao amanhecer já decidira o que fazer. Mário dirigiu-se ao escritório do doutor Nestor sem marcar consulta. O advogado já foi dizendo que dispunha de pouco tempo. &lt;/p&gt;
+&lt;p&gt;(...) - Eu e Nádia estamos investigando. Pelo menos já descobrimos por que Rico usava capa preta (...).&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ática</dc:publisher>
+        <dc:identifier opf:scheme="GOODREADS">9972994</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788526022331</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B001IKHTZ0</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">jYjYCgAAQBAJ</dc:identifier>
+        <dc:language>por</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <meta name="calibre:series" content="Vaga-lume"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="6"/>
+        <meta name="calibre:timestamp" content="2023-05-18T15:18:59+00:00"/>
+        <meta name="calibre:title_sort" content="diabo no porta-malas, O"/>
+        <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
