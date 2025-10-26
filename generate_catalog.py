@@ -1,6 +1,7 @@
 import os
 import datetime
 import xml.etree.ElementTree as ET
+from urllib.parse import quote
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 EBOOKS_DIR = os.path.join(BASE_DIR, "Ebooks")
@@ -16,51 +17,37 @@ feed = ET.Element("feed", {
     "xmlns:opds": "http://opds-spec.org/2010/catalog"
 })
 
-ET.SubElement(feed, "id").text = "https://webgrafico.github.io/livraria"
+base_url = "https://webgrafico.github.io/livraria"
+ebooks_dir = "Ebooks"
+output_file = "catalog.xml"
+
+feed = ET.Element("feed", xmlns="http://www.w3.org/2005/Atom", attrib={"xmlns:opds": "http://opds-spec.org/2010/catalog"})
+ET.SubElement(feed, "id").text = base_url
 ET.SubElement(feed, "title").text = "Catálogo de Livros - Livraria"
 ET.SubElement(feed, "updated").text = datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
 
 catalog_data = []
 
-for author_dir in sorted(os.listdir(EBOOKS_DIR)):
-    if author_dir in IGNORAR:
-        continue
-    author_path = os.path.join(EBOOKS_DIR, author_dir)
-    if not os.path.isdir(author_path):
-        continue
 
-    books = []
-    for root, _, files in os.walk(author_path):
-        epub_files = [f for f in files if f.lower().endswith(".epub")]
-        for epub in epub_files:
-            rel_path = os.path.relpath(os.path.join(root, epub), BASE_DIR).replace("\\", "/")
-            file_url = f"https://webgrafico.github.io/livraria/{rel_path}"
-            cover_path = os.path.join(root, "cover.jpg")
-            cover_url = None
-            if os.path.exists(cover_path):
-                rel_cover = os.path.relpath(cover_path, BASE_DIR).replace("\\", "/")
-                cover_url = f"https://webgrafico.github.io/livraria/{rel_cover}"
+for root, dirs, files in os.walk(ebooks_dir):
+    for file in files:
+        if file.endswith(".epub"):
+            author = os.path.basename(os.path.dirname(root))
+            title = os.path.splitext(file)[0]
 
-            book_title = os.path.splitext(epub)[0]
-            books.append({
-                "title": book_title,
-                "url": file_url,
-                "cover": cover_url
-            })
+            relative_path = os.path.join(root, file).replace("\\", "/")
+            encoded_path = quote(relative_path)  # Codifica espaços, parênteses etc.
+            file_url = f"{base_url}/{encoded_path}"
 
             entry = ET.SubElement(feed, "entry")
-            ET.SubElement(entry, "title").text = book_title
-            ET.SubElement(entry, "author").text = author_dir
+            ET.SubElement(entry, "title").text = f"{title}"
+            ET.SubElement(entry, "author").text = author
             ET.SubElement(entry, "id").text = file_url
             ET.SubElement(entry, "updated").text = datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
-            ET.SubElement(entry, "link", {
-                "rel": "http://opds-spec.org/acquisition",
-                "href": file_url,
-                "type": "application/epub+zip"
-            })
+            link = ET.SubElement(entry, "link", rel="http://opds-spec.org/acquisition", href=file_url, type="application/epub+zip")
 
-    if books:
-        catalog_data.append({"author": author_dir, "books": books})
+tree = ET.ElementTree(feed)
+tree.write(output_file, encoding="utf-8", xml_declaration=True)
 
 xml_output = os.path.join(BASE_DIR, "catalog.xml")
 ET.ElementTree(feed).write(xml_output, encoding="utf-8", xml_declaration=True)
