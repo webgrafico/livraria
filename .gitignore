@@ -1,0 +1,5 @@
+# ignorar pastas e arquivos do Calibre
+.calnotes/
+.caltrash/
+metadata.db
+metadata_db_prefs_backup.json
