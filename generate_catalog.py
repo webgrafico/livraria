@@ -2,107 +2,109 @@ import os
 import datetime
 import xml.etree.ElementTree as ET
 from urllib.parse import quote
+from PIL import Image
+from zipfile import ZipFile
 
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-EBOOKS_DIR = os.path.join(BASE_DIR, "Ebooks")
+# Configurações principais
+BASE_URL = "https://webgrafico.github.io/livraria"
+EBOOKS_DIR = "Ebooks"
+OUTPUT_MAIN = "catalog.xml"
 
-IGNORAR = {".calnotes", ".caltrash", "metadata.db", "metadata_db_prefs_backup.json"}
+# Função para gerar miniatura da capa dentro da pasta do livro
+def gerar_capa(livro_path):
+    try:
+        with ZipFile(livro_path, "r") as zf:
+            cover_name = None
+            for name in zf.namelist():
+                if "cover" in name.lower() and name.lower().endswith((".jpg", ".jpeg", ".png")):
+                    cover_name = name
+                    break
+            if not cover_name:
+                return None
 
-# ======================
-# 1️⃣ GERAR catalog.xml
-# ======================
-
-feed = ET.Element("feed", {
-    "xmlns": "http://www.w3.org/2005/Atom",
-    "xmlns:opds": "http://opds-spec.org/2010/catalog"
-})
-
-base_url = "https://webgrafico.github.io/livraria"
-ebooks_dir = "Ebooks"
-output_file = "catalog.xml"
-
-feed = ET.Element("feed", xmlns="http://www.w3.org/2005/Atom", attrib={"xmlns:opds": "http://opds-spec.org/2010/catalog"})
-ET.SubElement(feed, "id").text = base_url
-ET.SubElement(feed, "title").text = "Catálogo de Livros - Livraria"
-ET.SubElement(feed, "updated").text = datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
-
-catalog_data = []
+            with zf.open(cover_name) as cover_file:
+                img = Image.open(cover_file)
+                img.thumbnail((300, 300))
+                pasta_livro = os.path.dirname(livro_path)
+                output_cover = os.path.join(pasta_livro, "cover_300.jpg")
+                img.save(output_cover, "JPEG")
+                return output_cover
+    except Exception as e:
+        print(f"Erro ao gerar capa para {livro_path}: {e}")
+        return None
 
 
-for root, dirs, files in os.walk(ebooks_dir):
-    for file in files:
-        if file.endswith(".epub"):
-            author = os.path.basename(os.path.dirname(root))
-            title = os.path.splitext(file)[0]
+# Função para criar XML OPDS
+def criar_catalogo():
+    feed = ET.Element("feed", xmlns="http://www.w3.org/2005/Atom", attrib={"xmlns:opds": "http://opds-spec.org/2010/catalog"})
+    ET.SubElement(feed, "id").text = BASE_URL
+    ET.SubElement(feed, "title").text = "Catálogo de Livros - Livraria"
+    ET.SubElement(feed, "updated").text = datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
 
-            relative_path = os.path.join(root, file).replace("\\", "/")
-            encoded_path = quote(relative_path)  # Codifica espaços, parênteses etc.
-            file_url = f"{base_url}/{encoded_path}"
+    for autor in os.listdir(EBOOKS_DIR):
+        autor_path = os.path.join(EBOOKS_DIR, autor)
+        if not os.path.isdir(autor_path):
+            continue
+        if autor in [".caltrash", ".calnotes"]:
+            continue
 
-            entry = ET.SubElement(feed, "entry")
-            ET.SubElement(entry, "title").text = f"{title}"
-            ET.SubElement(entry, "author").text = author
-            ET.SubElement(entry, "id").text = file_url
-            ET.SubElement(entry, "updated").text = datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
-            link = ET.SubElement(entry, "link", rel="http://opds-spec.org/acquisition", href=file_url, type="application/epub+zip")
+        # Catálogo individual do autor
+        autor_feed = ET.Element("feed", xmlns="http://www.w3.org/2005/Atom", attrib={"xmlns:opds": "http://opds-spec.org/2010/catalog"})
+        ET.SubElement(autor_feed, "id").text = f"{BASE_URL}/{quote(autor_path)}"
+        ET.SubElement(autor_feed, "title").text = f"Livros de {autor}"
+        ET.SubElement(autor_feed, "updated").text = datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
 
-tree = ET.ElementTree(feed)
-tree.write(output_file, encoding="utf-8", xml_declaration=True)
+        for root, _, files in os.walk(autor_path):
+            for file in files:
+                if not file.endswith(".epub"):
+                    continue
+                if file in ["metadata.db", "metadata_db_prefs_backup.json"]:
+                    continue
 
-xml_output = os.path.join(BASE_DIR, "catalog.xml")
-ET.ElementTree(feed).write(xml_output, encoding="utf-8", xml_declaration=True)
-print(f"✅ Catálogo OPDS gerado: {xml_output}")
+                title = os.path.splitext(file)[0]
+                full_path = os.path.join(root, file)
+                relative_path = full_path.replace("\\", "/")
+                encoded_path = quote(relative_path)
+                file_url = f"{BASE_URL}/{encoded_path}"
 
-# ======================
-# 2️⃣ GERAR index.html
-# ======================
+                # Gera capa (cover_300.jpg)
+                cover_path = os.path.join(root, "cover_300.jpg")
+                if not os.path.exists(cover_path):
+                    gerar_capa(full_path)
 
-html_path = os.path.join(BASE_DIR, "index.html")
+                cover_url = None
+                if os.path.exists(cover_path):
+                    relative_cover = cover_path.replace("\\", "/")
+                    encoded_cover = quote(relative_cover)
+                    cover_url = f"{BASE_URL}/{encoded_cover}"
 
-html_content = """<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>📚 Catálogo de Livros - Livraria</title>
-<style>
-  body { font-family: Arial, sans-serif; margin: 40px; background: #fafafa; color: #333; }
-  h1 { text-align: center; }
-  .author { margin-top: 40px; }
-  .books { display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 20px; }
-  .book { background: white; border-radius: 8px; padding: 10px; text-align: center; box-shadow: 0 2px 6px rgba(0,0,0,0.1); }
-  .book img { width: 100%; border-radius: 6px; max-height: 220px; object-fit: cover; }
-  .book-title { font-size: 14px; margin-top: 6px; }
-  .book a { text-decoration: none; color: #0070f3; }
-  footer { margin-top: 50px; text-align: center; font-size: 14px; color: #666; }
-</style>
-</head>
-<body>
-<h1>📚 Catálogo de Livros - Livraria</h1>
-<p style="text-align:center;">Navegue pelos autores abaixo e clique para baixar os livros.</p>
-"""
+                # Entry principal
+                entry = ET.SubElement(autor_feed, "entry")
+                ET.SubElement(entry, "title").text = title
+                ET.SubElement(entry, "author").text = autor
+                ET.SubElement(entry, "id").text = file_url
+                ET.SubElement(entry, "updated").text = datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
 
-for author in catalog_data:
-    html_content += f"<div class='author'><h2>{author['author']}</h2><div class='books'>"
-    for book in author["books"]:
-        html_content += "<div class='book'>"
-        if book["cover"]:
-            html_content += f"<a href='{book['url']}'><img src='{book['cover']}' alt='Capa'></a>"
-        else:
-            html_content += f"<a href='{book['url']}'><div style='height:220px;display:flex;align-items:center;justify-content:center;background:#eee;border-radius:6px;'>Sem capa</div></a>"
-        html_content += f"<div class='book-title'><a href='{book['url']}'>{book['title']}</a></div></div>"
-    html_content += "</div></div>"
+                if cover_url:
+                    ET.SubElement(entry, "link", rel="http://opds-spec.org/image", href=cover_url, type="image/jpeg")
 
-html_content += f"""
-<footer>
-  <p>Gerado automaticamente em {datetime.datetime.now().strftime("%d/%m/%Y %H:%M")}</p>
-  <p><a href="catalog.xml">📄 Versão OPDS (XML)</a></p>
-</footer>
-</body></html>
-"""
+                ET.SubElement(entry, "link", rel="http://opds-spec.org/acquisition", href=file_url, type="application/epub+zip")
 
-with open(html_path, "w", encoding="utf-8") as f:
-    f.write(html_content)
+                # Também adiciona esse autor ao catálogo principal
+                main_entry = ET.SubElement(feed, "entry")
+                ET.SubElement(main_entry, "title").text = f"{title} - {autor}"
+                ET.SubElement(main_entry, "id").text = file_url
+                ET.SubElement(main_entry, "updated").text = datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+                ET.SubElement(main_entry, "link", rel="subsection", href=f"{BASE_URL}/{quote(autor_path)}/catalog.xml")
 
-print(f"✅ Página HTML gerada: {html_path}")
-print("🚀 Tudo pronto! Faça commit e push para o GitHub Pages.")
+        # Salva catálogo individual do autor dentro da própria pasta
+        autor_catalog_path = os.path.join(autor_path, "catalog.xml")
+        ET.ElementTree(autor_feed).write(autor_catalog_path, encoding="utf-8", xml_declaration=True)
+
+    # Salva catálogo principal
+    ET.ElementTree(feed).write(OUTPUT_MAIN, encoding="utf-8", xml_declaration=True)
+    print(f"\n✅ Catálogo principal gerado: {OUTPUT_MAIN}")
+
+
+if __name__ == "__main__":
+    criar_catalogo()
