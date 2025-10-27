@@ -7,6 +7,7 @@ armazenados dentro da pasta "Ebooks". Compatível com KOReader e GitHub Pages.
 
 Estrutura esperada:
 
+```
 livraria/
 ├── gerar_catalogo.py
 ├── Ebooks/
@@ -19,3 +20,4 @@ livraria/
 │   │   └── Dan Brown.xml
 │   └── ...
 └── catalog.xml  ← catálogo principal
+```

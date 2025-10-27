@@ -2,22 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Gera um catálogo OPDS (catalog.xml) automaticamente a partir dos arquivos .epub
-armazenados dentro da pasta "Ebooks". Compatível com KOReader e GitHub Pages.
-
-Estrutura esperada:
-Ebooks/
- ├── Autor 1/
- │    └── Título do Livro/
- │         ├── cover.jpg
- │         ├── metadata.opf
- │         └── Livro - Autor.epub
- ├── Autor 2/
- │    └── Outro Livro/
- │         └── Outro Livro - Autor.epub
- └── ...
-
-Autor: Hugo (adaptado por GPT-5)
-Data: 2025-10-27
+armazenados dentro da pasta "Ebooks", ignorando diretórios .caltrash.
 """
 
 import os
@@ -25,14 +10,13 @@ import datetime
 import xml.etree.ElementTree as ET
 from urllib.parse import quote
 
-# URL base do seu repositório GitHub Pages
 BASE_URL = "https://webgrafico.github.io/livraria"
-# Caminho local onde estão os ebooks
 EBOOKS_DIR = "Ebooks"
-# Nome do arquivo de saída (gerado na raiz do projeto)
 OUTPUT_FILE = "catalog.xml"
 
-# Criação do feed OPDS principal
+# Lista de padrões a ignorar
+IGNORED = [".caltrash", ".calnotes", "metadata_db_prefs_backup.json", "metadata.db"]
+
 feed = ET.Element(
     "feed",
     xmlns="http://www.w3.org/2005/Atom",
@@ -43,37 +27,49 @@ ET.SubElement(feed, "id").text = BASE_URL
 ET.SubElement(feed, "title").text = "Catálogo de Livros - Livraria"
 ET.SubElement(feed, "updated").text = datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
 
-# Percorre todos os diretórios e subdiretórios em busca de arquivos .epub
+# Lista para armazenar todos os arquivos .epub encontrados
+epub_files = []
+
 for root, dirs, files in os.walk(EBOOKS_DIR):
+    if any(ignored in root.lower() for ignored in IGNORED):
+        continue
+
     for file in files:
+        if any(file.lower() == ignored for ignored in IGNORED):
+            continue
         if file.endswith(".epub"):
-            # Extrai nome do autor (diretório pai)
+            full_path = os.path.join(root, file).replace("\\", "/")
             author = os.path.basename(os.path.dirname(root))
-            # Extrai o título (nome do arquivo sem extensão)
             title = os.path.splitext(file)[0]
 
-            # Caminho relativo e codificação para URL segura
-            relative_path = os.path.join(root, file).replace("\\", "/")
-            encoded_path = quote(relative_path)
-            file_url = f"{BASE_URL}/{encoded_path}"
+            epub_files.append({
+                "title": title,
+                "author": author,
+                "path": full_path
+            })
 
-            # Cria a entrada no catálogo
-            entry = ET.SubElement(feed, "entry")
-            ET.SubElement(entry, "title").text = title
-            ET.SubElement(entry, "author").text = author
-            ET.SubElement(entry, "id").text = file_url
-            ET.SubElement(entry, "updated").text = datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+# Ordena a lista pelo título do arquivo (alfabética)
+epub_files.sort(key=lambda x: x["title"].lower())
 
-            # Link para download do arquivo
-            ET.SubElement(
-                entry,
-                "link",
-                rel="http://opds-spec.org/acquisition",
-                href=file_url,
-                type="application/epub+zip",
-            )
+# Cria as entradas no XML
+for epub in epub_files:
+    encoded_path = quote(epub["path"])
+    file_url = f"{BASE_URL}/{encoded_path}"
 
-# Gera o arquivo XML final
+    entry = ET.SubElement(feed, "entry")
+    ET.SubElement(entry, "title").text = epub["title"]
+    ET.SubElement(entry, "author").text = epub["author"]
+    ET.SubElement(entry, "id").text = file_url
+    ET.SubElement(entry, "updated").text = datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+
+    ET.SubElement(
+        entry,
+        "link",
+        rel="http://opds-spec.org/acquisition",
+        href=file_url,
+        type="application/epub+zip",
+    )
+
 tree = ET.ElementTree(feed)
 tree.write(OUTPUT_FILE, encoding="utf-8", xml_declaration=True)
 
