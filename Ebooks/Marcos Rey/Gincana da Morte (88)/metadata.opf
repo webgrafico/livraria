@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">6410a70e-b3bb-4825-a8d6-7f661f236255</dc:identifier>
         <dc:title>Gincana da Morte</dc:title>
         <dc:creator opf:file-as="Rey, Marcos" opf:role="aut">Marcos Rey</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.13.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>1997-01-01T03:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Ao se esconder da chuva naquele antigo bar do centro de São Paulo, Tim acabou ouvindo, na mesa atrás dele, uma conversa esquisita: dois homens sombrios planejavam o assassinato da Baronesa para conseguir a herança dessa simpática velhinha. E isso não era tudo. O rapaz reconheceu um dos criminosos, o mesmo homem que tinha assaltado o escritório do simpático Dr. Barroso, onde ele trabalhava. Agora, o negócio era a chance que o destino oferecia. Com a ajuda do investigador Toledo, Tim havia de fazer justiça. Mas não fazia idéia de que, ao entrar nessa perigosa aventura, começava a participar de uma gincana fatal. Para o perdedor, estava reservado um prêmio terrível: a morte.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -19,6 +19,7 @@
         <meta name="calibre:timestamp" content="2023-05-18T15:16:05+00:00"/>
         <meta name="calibre:title_sort" content="Gincana da Morte"/>
         <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#pages" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;int&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Pages&quot;, &quot;search_terms&quot;: [&quot;#pages&quot;], &quot;label&quot;: &quot;pages&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;number_format&quot;: &quot;{0:,d}&quot;, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 23, &quot;#value#&quot;: 151, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

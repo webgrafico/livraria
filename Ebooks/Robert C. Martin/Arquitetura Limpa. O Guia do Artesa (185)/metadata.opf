@@ -10,8 +10,8 @@
         <dc:description>&lt;div&gt;
 &lt;p&gt;As regras universais de arquitetura de software aumentam dramaticamente a produtividade dos desenvolvedores ao longo da vida dos sistemas de software. Agora, aproveitando o sucesso dos seus best-sellers "Código Limpo" e "O Codificador Limpo", o lendário artesão de software Robert C. Martin (“Uncle Bob”) vai revelar essas regras e ajudar o leitor a aplicá-las.A "Arquitetura Limpa" de Martin não é só mais um catálogo de opções. Com base em meio século de experiência nos mais variados ambientes de software, Martin indica as escolhas que você deve fazer e explica por que elas são cruciais para o seu sucesso. Como já era esperado do Uncle Bob, este livro está cheio de soluções simples e diretas para os desafios reais que você enfrentará - aqueles que irão influenciar diretamente o sucesso ou fracasso dos seus projetos.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Editora Alta Books</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9788550804606</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">49908812</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788550804606</dc:identifier>
         <dc:language>por</dc:language>
         <dc:subject>Non-Fiction</dc:subject>
         <dc:subject>Reference</dc:subject>
@@ -19,6 +19,7 @@
         <meta name="calibre:timestamp" content="2025-10-25T15:40:45+00:00"/>
         <meta name="calibre:title_sort" content="Arquitetura Limpa. O Guia do Artesao Para Estrutura e Design de Software"/>
         <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#pages" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;int&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Pages&quot;, &quot;search_terms&quot;: [&quot;#pages&quot;], &quot;label&quot;: &quot;pages&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;number_format&quot;: &quot;{0:,d}&quot;, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 23, &quot;#value#&quot;: 404, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

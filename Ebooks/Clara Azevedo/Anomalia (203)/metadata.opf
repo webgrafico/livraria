@@ -14,13 +14,14 @@
 &lt;p&gt;&lt;strong&gt;Sierra Garcia&lt;/strong&gt; é uma garota de mente brilhante, conseguindo calcular o que quiser em segundos, a única coisa que a impede de seguir o seu maior sonho é a Asteriscus, uma das gangues mais poderosas do país comandada por seu tio, o Barão. Cansada da vida difícil que é obrigada a ter, a garota genia decide seguir os desejos do próprio coração. Porém, quando uma proposta inusitada bate à sua porta, ela terá que decidir entre o que mais deseja ou o bem de toda humanidade. &lt;/p&gt;
 &lt;p&gt;Uma garota genial, uma astronauta habilidosa, um piloto traumatizado, um marciano curioso e uma alienígena cheia de segredos terão que se unir para salvar o mundo de uma anomalia que veio dos confins do cosmo, eles só não esperavam que a verdadeira ameaça fosse estar bem abaixo de seus pés em terra firme.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Clara Azevedo (Distopica Sem Rumo)</dc:publisher>
-        <dc:identifier opf:scheme="MOBI-ASIN">B0CP6FX4ZY</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">202931625</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0CP6FX4ZY</dc:identifier>
         <dc:language>por</dc:language>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2025-10-26T16:46:19.881410+00:00"/>
+        <meta name="calibre:timestamp" content="2025-10-26T16:46:19+00:00"/>
         <meta name="calibre:title_sort" content="Anomalia"/>
         <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#pages" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;int&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Pages&quot;, &quot;search_terms&quot;: [&quot;#pages&quot;], &quot;label&quot;: &quot;pages&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;number_format&quot;: &quot;{0:,d}&quot;, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 23, &quot;#value#&quot;: 580, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

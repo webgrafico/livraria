@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b2afc0a6-11c9-41ff-aa99-86da7b2b0929</dc:identifier>
+        <dc:title>A vingança da Cagliostro</dc:title>
+        <dc:creator opf:file-as="Leblanc, Maurice" opf:role="aut">Maurice Leblanc</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-01-30T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;div style="text-align: justify;"&gt;Num estabelecimento bancário, um senhor míope conta maços de cédulas. Outro senhor, este de vista excelente, observa-o com o interesse que nele sempre desperta qualquer soma vultosa a seu alcance, uma vez que se chama Raoul d'Averny, ou seja, Arsène Lupin. Este segundo senhor decide aplicar seu método, isto é, acompanhar o sujeito até seu destino e rondar as imediações, sondando o terreno antes de agir.&lt;/div&gt;&lt;div style="text-align: justify;"&gt;É assim que acaba proprietário da Ensolarada e em relações de amizade com o cavalheiro míope e suas sobrinhas. Apresenta-lhes em seguida o jovem Félicien Charles, encarregado de decorar sua casa, e por cujo intermédio pretende obter informações úteis para se apoderar do dinheiro.&lt;/div&gt;&lt;div style="text-align: justify;"&gt;Viaja, regressa... Mas, na véspera do golpe, um dilúvio de dramas enluta a região, o dinheiro desaparece e a polícia passa a nutrir suspeitas de que Félicien é o ladrão e assassino. Seria de fato? É o enigma que Lupin tenta solucionar antes da justiça, já que certos indícios levavam a crer que Félicien é seu filho. Estes são os principais elementos com que Maurice Leblanc constrói mais um de seus irresistíveis romances policiais e que a Nova Fronteira, ao lado dos de Agatha Christie e Georges Simenon, com sucesso vem colocando ao alcance do grande publico.&lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">F2INQSC55ZEDFVN7CCSLPBAGD4PCS7LI</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">28497641</dc:identifier>
+        <dc:language>por</dc:language>
+        <dc:subject>1. Ficção policial e de mistério (literatura francesa - Arsène Lupin)</dc:subject>
+        <meta name="calibre:timestamp" content="2022-07-27T15:45:23+00:00"/>
+        <meta name="calibre:title_sort" content="vingança da Cagliostro, A"/>
+        <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#pages" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;int&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Pages&quot;, &quot;search_terms&quot;: [&quot;#pages&quot;], &quot;label&quot;: &quot;pages&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;number_format&quot;: &quot;{0:,d}&quot;, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 23, &quot;#value#&quot;: 200, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

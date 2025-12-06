@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">b8325529-33bc-44f2-a507-d9291ab256ed</dc:identifier>
         <dc:title>Enigma na Televisão</dc:title>
         <dc:creator opf:file-as="Rey, Marcos" opf:role="aut">Marcos Rey</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.13.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>1987-01-01T03:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Uma série de assassinatos começa a acontecer, nos estúdios da TV Mundial, uma grande emissora de televisão. Em meio a atores decadentes, atrizes em ascensão e jornalistas apaixonados por livros, um jovem repórter, com muita coragem, segue as pistas da trama sinistra e ameaçadora armada pelo criminoso. Em 'Enigma na televisão', mais uma vez Marcos Rey se mostrou um verdadeiro craque ao maquinar um enredo com situações surpreendentes, dando à trama um final inesperado&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -23,6 +23,7 @@
         <meta name="calibre:timestamp" content="2023-05-18T15:15:56+00:00"/>
         <meta name="calibre:title_sort" content="Enigma na Televisão"/>
         <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#pages" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;int&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Pages&quot;, &quot;search_terms&quot;: [&quot;#pages&quot;], &quot;label&quot;: &quot;pages&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;number_format&quot;: &quot;{0:,d}&quot;, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 23, &quot;#value#&quot;: 128, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

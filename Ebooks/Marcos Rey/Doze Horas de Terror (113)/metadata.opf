@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">b6d22fbe-d51c-4f34-b936-3ac695a85387</dc:identifier>
         <dc:title>Doze Horas de Terror</dc:title>
         <dc:creator opf:file-as="Rey, Marcos" opf:role="aut">Marcos Rey</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.13.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>1995-01-01T03:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Júlio chega na casa do irmão Miguel, encontra o apartamento todo revirado e o telefone toca. Uma voz feminina e desconhecida o alerta para que saia imediatamente. É Ruth, a namorada de Miguel. Ele não conhece ninguém na cidade a não ser o irmão. Ir para onde? A partir daí Júlio e a cunhada vivem doze longas horas de terror pois eles passam a ser perseguidos por perigsoso traficantes de drogas por causa de Miguel que se envolveu com o tráfico de drogas. A cada minuto, qualquer cochilo pode ser fatal.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -21,6 +21,7 @@
         <meta name="calibre:timestamp" content="2023-05-18T15:18:44+00:00"/>
         <meta name="calibre:title_sort" content="Doze Horas de Terror"/>
         <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#pages" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;int&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Pages&quot;, &quot;search_terms&quot;: [&quot;#pages&quot;], &quot;label&quot;: &quot;pages&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;number_format&quot;: &quot;{0:,d}&quot;, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 23, &quot;#value#&quot;: 91, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

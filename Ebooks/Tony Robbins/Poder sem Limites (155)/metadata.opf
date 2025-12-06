@@ -6,7 +6,7 @@
         <dc:title>Poder sem Limites</dc:title>
         <dc:creator opf:file-as="Robbins, Tony &amp; Brasil, Muriel Alves" opf:role="aut">Tony Robbins</dc:creator>
         <dc:creator opf:file-as="Robbins, Tony &amp; Brasil, Muriel Alves" opf:role="aut">Muriel Alves Brasil</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.13.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2023-09-22T03:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;If you have ever dreamed of a better life, Unlimited Power will show you how to achieve the extraordinary quality of life you desire and deserve. Anthony Robbins has proven to millions through his books, tapes and seminars that by harnessing the power of your mind you can do, have, achieve and create anything you want for your life. Unlimited Power is a revolutionary fitness book for the mind. It will show you, step by step, how to perform at your peak while gaining emotional and financial freedom, attaining leadership and self-confidence and winning the co-operation of others. Unlimited Power is a guidebook to superior performance in an age of success.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -19,9 +19,10 @@
         <dc:subject>Self Help</dc:subject>
         <dc:subject>Inspirational</dc:subject>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2025-10-25T15:40:43.750600+00:00"/>
+        <meta name="calibre:timestamp" content="2025-10-25T15:40:43+00:00"/>
         <meta name="calibre:title_sort" content="Poder sem Limites"/>
         <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#pages" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;int&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Pages&quot;, &quot;search_terms&quot;: [&quot;#pages&quot;], &quot;label&quot;: &quot;pages&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;number_format&quot;: &quot;{0:,d}&quot;, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 23, &quot;#value#&quot;: 406, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

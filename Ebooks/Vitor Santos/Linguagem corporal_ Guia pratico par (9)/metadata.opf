@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3bce70ba-848f-4315-8d04-d343ef5813e3</dc:identifier>
+        <dc:title>Linguagem corporal: Guia prático para analisar e interpretar pessoas</dc:title>
+        <dc:creator opf:file-as="Santos, Vitor" opf:role="aut">Vitor Santos</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-04-12T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: 600"&gt;O criador do Metaforando, o maior canal de linguagem corporal do mundo, mostra o passo a passo para entender melhor as pessoas ao seu redor e identificar incongruências entre expressões emocionais, discurso e comportamento.&lt;/p&gt;
+&lt;p&gt;Você já teve a sensação de não ir com a cara de alguém sem saber o porquê? Ou quem sabe desconfiou que não gostavam de você, embora não demonstrassem nenhuma inimizade? Costumamos observar os outros, tentando entendê-los não apenas pela forma como se expressam, mas também pelo modo como se comportam, o que pode gerar esses sentimentos "inexplicáveis". O corpo fala, mas será que você consegue entender o que ele diz?&lt;/p&gt;
+&lt;p&gt;O youtuber e perito facial Vitor Santos responde essas perguntas em &lt;em&gt;Linguagem corporal&lt;/em&gt;. Com imagens ilustrativas e exemplos cotidianos, ele usa sua expertise para explicar como compreender melhor as situações e "ler" as pessoas. Nestas páginas, você aprenderá habilidades de comunicação, interpretação e raciocínio lógico que poderão ajudá-lo em diversas áreas da sua vida, desde o ambiente profissional até a convivência familiar.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Fontanar</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9786557824580</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">FN2FT6C6NE3S64XOPSMHDS75NYZYAZCQ</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">Mt5eEAAAQBAJ</dc:identifier>
+        <dc:language>por</dc:language>
+        <dc:subject>Social Science</dc:subject>
+        <dc:subject>Body Language &amp; Nonverbal Communication</dc:subject>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Communication &amp; Social Skills</dc:subject>
+        <meta name="calibre:timestamp" content="2022-07-27T15:23:56+00:00"/>
+        <meta name="calibre:title_sort" content="Linguagem corporal: Guia prático para analisar e interpretar pessoas"/>
+        <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#pages" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;int&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Pages&quot;, &quot;search_terms&quot;: [&quot;#pages&quot;], &quot;label&quot;: &quot;pages&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;number_format&quot;: &quot;{0:,d}&quot;, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 23, &quot;#value#&quot;: 173, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

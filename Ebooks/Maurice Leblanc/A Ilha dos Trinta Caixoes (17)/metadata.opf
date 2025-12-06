@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e2634437-5f15-4c3a-8247-7cf0b937a595</dc:identifier>
+        <dc:title>A Ilha dos Trinta Caixões</dc:title>
+        <dc:creator opf:file-as="Leblanc, Maurice" opf:role="aut">Maurice Leblanc</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-02-01T03:00:00+00:00</dc:date>
+        <dc:description>Trinta armadilhas ameaçam a ilha de Sarek na Grã-Bretanha. Os moradores supersticiosos chamam-na de "Ilha do caixão". Uma lenda assombra fala que trinta vítimas devem morrer na cruz com quatro mulheres. Veronique Hergemont, que encontrou seu filho depois de 14 anos de ausência, foi desagradavelmente surpreendida ao ver suas iniciais nos terminais, nas portas das capelas e seu rosto e em uma imagem de mulher crucificada! A estranha atmosfera de lendas celtas, o "Pedra-Deus que dá vida ou morte", a previsão sangrenta, o monstruoso Vorski, é de estremecer de angústia e terror. Arsène Lupin, felizmente, e um pequeno cachorro chamado ToutVaBien estão lá para lidar com a maldição!</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">DQ5LVJWTUHY5RNDMHSAJ3J7PZP4FIBUB</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9786555525496</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">59114115</dc:identifier>
+        <dc:language>por</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Ficção</dc:subject>
+        <meta name="calibre:timestamp" content="2022-07-27T15:44:19+00:00"/>
+        <meta name="calibre:title_sort" content="Ilha dos Trinta Caixões, A"/>
+        <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#pages" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;int&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Pages&quot;, &quot;search_terms&quot;: [&quot;#pages&quot;], &quot;label&quot;: &quot;pages&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;number_format&quot;: &quot;{0:,d}&quot;, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 23, &quot;#value#&quot;: 288, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

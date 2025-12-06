@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">5e39de4e-d164-435d-b7bf-4ca4637ec0e8</dc:identifier>
         <dc:title>A fúria dos reis</dc:title>
         <dc:creator opf:file-as="Martin, George R. R." opf:role="aut">George R. R. Martin</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.13.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>1998-11-16T03:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;A TÃO ESPERADA CONTINUAÇÃO DE CRÔNICAS DE GELO E FOGO - Em "A fúria dos Reis", o segundo livro da aclamada série As crônicas de gelo e fogo, George R. R. Martin segue a épica aventura nos Sete Reinos, onde muitos perigos e disputas ainda estão por vir. Além dos combates que se estendem por todos os lados, o perigo agora também chega pelo céu, quando um cometa vermelho como sangue surge ameaçadoramente. Uma terra onde irmão luta contra irmão e a morte caminha na noite fria, nada é o que parece ser, e inocência é uma palavra que não existe. Quando os reis estão em guerra, a terra toda treme!&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -20,9 +20,10 @@
         <meta name="calibre:series" content="As crônicas de gelo e fogo"/>
         <meta name="calibre:series_index" content="2"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2023-05-19T16:29:37.133452+00:00"/>
+        <meta name="calibre:timestamp" content="2023-05-19T16:29:37+00:00"/>
         <meta name="calibre:title_sort" content="fúria dos reis, A"/>
         <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#pages" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;int&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Pages&quot;, &quot;search_terms&quot;: [&quot;#pages&quot;], &quot;label&quot;: &quot;pages&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;number_format&quot;: &quot;{0:,d}&quot;, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 23, &quot;#value#&quot;: 1046, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

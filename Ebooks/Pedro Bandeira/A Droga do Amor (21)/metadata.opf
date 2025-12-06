@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d92b7f14-432e-46c1-a7f2-229d57eb5f97</dc:identifier>
+        <dc:title>A Droga do Amor</dc:title>
+        <dc:creator opf:file-as="Bandeira, Pedro" opf:role="aut">Pedro Bandeira</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1993-01-01T02:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Um cientista americano, que havia criado a cura para a praga do século, o mal que transformam o amor em morte, é sequestrado no Brasil. Magrí e Chumbinho tentam reunir a turma secreta dos Karas para investigar esse crime tão tremendo para a humanidade. Mas Miguel, Calu e Crânio, por não querer disputar entre si o amor por Magrí, decidem terminar com os Karas... Para agravar a situação, o Doutor Q.I., o rei dos criminosos, foge da Penitenciária de Segurança Máxima... Magrí, a única menina da turma, é quem afronta todos os riscos para desvendar esta trama eletrizante! &lt;/p&gt;
+&lt;p&gt;Esse é mais um trabalho para os Karas: o avesso dos coroas, o contrário dos caretas!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editora Moderna</dc:publisher>
+        <dc:identifier opf:scheme="GOODREADS">30641402</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788516095796</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">BB4UF5YBMF</dc:identifier>
+        <dc:language>por</dc:language>
+        <dc:subject>Young Adult</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Childrens</dc:subject>
+        <meta name="calibre:series" content="Os Karas"/>
+        <meta name="calibre:series_index" content="4"/>
+        <meta name="calibre:timestamp" content="2022-07-27T15:44:20+00:00"/>
+        <meta name="calibre:title_sort" content="Droga do Amor, A"/>
+        <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#pages" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;int&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Pages&quot;, &quot;search_terms&quot;: [&quot;#pages&quot;], &quot;label&quot;: &quot;pages&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;number_format&quot;: &quot;{0:,d}&quot;, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 23, &quot;#value#&quot;: 176, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
